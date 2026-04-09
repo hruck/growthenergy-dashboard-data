@@ -1,4 +1,4 @@
-iso_year,iso_week,period,rin_d6_avg,gas_retail_usd_per_gal,wti_usd_per_bbl
+iso_year,iso_week,period,D6 RIN,Retail Gas,WTI Crude
 2011,1,2011-01-07,0.02,3.07,89.54
 2011,2,2011-01-14,0.02,3.089,91.02
 2011,3,2011-01-21,0.02,3.104,89.75
