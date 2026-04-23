@@ -1,0 +1,11 @@
+bucket,rank,cty_name,d_gallons,Gallons_Gain,Gallons_Loss,flag,gallons_Recent_12,gallons_Prev_12
+Expanding,1,European Union (27),219763104.1455482,219763104.1455482,NA,https://public.flourish.studio/country-flags/svg/eu.svg,435642502.9176522,215879398.772104
+Expanding,2,Canada,119746551.76885581,119746551.76885581,NA,https://public.flourish.studio/country-flags/svg/ca.svg,820365795.2458081,700619243.4769523
+Expanding,3,Brazil,64938484.45191601,64938484.45191601,NA,https://public.flourish.studio/country-flags/svg/br.svg,102189240.00996001,37250755.558044
+Expanding,4,Jamaica,18975172.018888,18975172.018888,NA,https://public.flourish.studio/country-flags/svg/jm.svg,39874440.00726001,20899267.98837201
+Expanding,5,South Korea,15378517.261504024,15378517.261504024,NA,https://public.flourish.studio/country-flags/svg/kr.svg,92227814.76007202,76849297.498568
+Contracting,5,India,-13571907.826439917,NA,-13571907.826439917,https://public.flourish.studio/country-flags/svg/in.svg,188293479.91782802,201865387.74426794
+Contracting,4,Mexico,-20929497.454504,NA,-20929497.454504,https://public.flourish.studio/country-flags/svg/mx.svg,64793007.837408006,85722505.291912
+Contracting,3,Oman,-27856273.535764,NA,-27856273.535764,https://public.flourish.studio/country-flags/svg/om.svg,0,27856273.535764
+Contracting,2,Singapore,-35271360.727972,NA,-35271360.727972,https://public.flourish.studio/country-flags/svg/sg.svg,2529282.3208440007,37800643.048816
+Contracting,1,United Kingdom,-58113931.04691592,NA,-58113931.04691592,https://public.flourish.studio/country-flags/svg/gb.svg,171951298.86354402,230065229.91045994
