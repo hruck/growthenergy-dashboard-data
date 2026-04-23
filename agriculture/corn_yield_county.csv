@@ -1,4 +1,4 @@
-fips,state,county,year,yield_bu_per_acre
+fips,state,county,year,Yield (bu/acre)
 01000,AL,OTHER COUNTIES,2023,143.7
 01003,AL,BALDWIN,2023,185.2
 01005,AL,BARBOUR,2023,186.9
