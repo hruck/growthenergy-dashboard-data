@@ -1,4 +1,4 @@
-fips,state,county,Number of Ethanol Plants,Production Capacity (mgy),Corn Grind by Ethanol Plants (mbu)
+fips,State,County,Number of Ethanol Plants,Production Capacity (mgy),Corn Grind by Ethanol Plants (mbu)
 19013,IA,Black Hawk,8,1371.1,489.68
 31121,NE,Merrick,10,1317.4,470.5
 19069,IA,Franklin,11,1292.1,461.46
