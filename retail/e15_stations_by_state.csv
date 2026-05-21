@@ -1,0 +1,34 @@
+state_abbr,state_name,stations
+MN,Minnesota,525
+WI,Wisconsin,511
+IA,Iowa,466
+PA,Pennsylvania,232
+IL,Illinois,230
+OH,Ohio,202
+TX,Texas,195
+NE,Nebraska,149
+FL,Florida,135
+IN,Indiana,126
+NC,North Carolina,125
+VA,Virginia,107
+MO,Missouri,89
+GA,Georgia,86
+KS,Kansas,86
+CO,Colorado,59
+MD,Maryland,59
+OK,Oklahoma,55
+SD,South Dakota,47
+AR,Arkansas,46
+WV,West Virginia,43
+MI,Michigan,38
+ND,North Dakota,37
+KY,Kentucky,27
+NM,New Mexico,27
+TN,Tennessee,26
+AL,Alabama,17
+LA,Louisiana,9
+SC,South Carolina,6
+NY,New York,4
+MS,Mississippi,3
+WY,Wyoming,3
+NV,Nevada,1
