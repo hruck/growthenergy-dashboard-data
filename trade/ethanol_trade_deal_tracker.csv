@@ -1,0 +1,180 @@
+name,iso2,flag_url,ethanol_engagement,notes,continent,un_region,subregion,world_bank_region
+Bangladesh,BD,https://public.flourish.studio/country-flags/svg/bd.svg,Agreement,,Asia,Asia,Southern Asia,South Asia
+Cambodia,KH,https://public.flourish.studio/country-flags/svg/kh.svg,Agreement,,Asia,Asia,South-Eastern Asia,East Asia & Pacific
+Ecuador,EC,https://public.flourish.studio/country-flags/svg/ec.svg,Agreement,,South America,Americas,South America,Latin America & Caribbean
+Guatemala,GT,https://public.flourish.studio/country-flags/svg/gt.svg,Agreement,,North America,Americas,Central America,Latin America & Caribbean
+Indonesia,ID,https://public.flourish.studio/country-flags/svg/id.svg,Agreement,,Asia,Asia,South-Eastern Asia,East Asia & Pacific
+Malaysia,MY,https://public.flourish.studio/country-flags/svg/my.svg,Agreement,,Asia,Asia,South-Eastern Asia,East Asia & Pacific
+Malta,MT,https://public.flourish.studio/country-flags/svg/mt.svg,Framework Only,,Europe,Europe,Southern Europe,Europe & Central Asia
+Taiwan,TW,https://public.flourish.studio/country-flags/svg/tw.svg,Agreement,,Asia,Asia,Eastern Asia,East Asia & Pacific
+Japan,JP,https://public.flourish.studio/country-flags/svg/jp.svg,Framework Only,,Asia,Asia,Eastern Asia,East Asia & Pacific
+Thailand,TH,https://public.flourish.studio/country-flags/svg/th.svg,Framework Only,,Asia,Asia,South-Eastern Asia,East Asia & Pacific
+Vietnam,VN,https://public.flourish.studio/country-flags/svg/vn.svg,Framework Only,Nothing specific on ethanol,Asia,Asia,South-Eastern Asia,East Asia & Pacific
+United Kingdom,GB,https://public.flourish.studio/country-flags/svg/gb.svg,Implemented Provisions,TRQ in effect,Europe,Europe,Northern Europe,Europe & Central Asia
+Afghanistan,AF,https://public.flourish.studio/country-flags/svg/af.svg,No Trade Deal,,Asia,Asia,Southern Asia,South Asia
+Albania,AL,https://public.flourish.studio/country-flags/svg/al.svg,No Trade Deal,,Europe,Europe,Southern Europe,Europe & Central Asia
+Algeria,DZ,https://public.flourish.studio/country-flags/svg/dz.svg,No Trade Deal,,Africa,Africa,Northern Africa,Middle East & North Africa
+Angola,AO,https://public.flourish.studio/country-flags/svg/ao.svg,No Trade Deal,,Africa,Africa,Middle Africa,Sub-Saharan Africa
+Argentina,AR,https://public.flourish.studio/country-flags/svg/ar.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+Armenia,AM,https://public.flourish.studio/country-flags/svg/am.svg,No Trade Deal,,Asia,Asia,Western Asia,Europe & Central Asia
+Australia,AU,https://public.flourish.studio/country-flags/svg/au.svg,No Trade Deal,,Oceania,Oceania,Australia and New Zealand,East Asia & Pacific
+Austria,AT,https://public.flourish.studio/country-flags/svg/at.svg,Framework Only,,Europe,Europe,Western Europe,Europe & Central Asia
+Azerbaijan,AZ,https://public.flourish.studio/country-flags/svg/az.svg,No Trade Deal,,Asia,Asia,Western Asia,Europe & Central Asia
+Belarus,BY,https://public.flourish.studio/country-flags/svg/by.svg,No Trade Deal,,Europe,Europe,Eastern Europe,Europe & Central Asia
+Belgium,BE,https://public.flourish.studio/country-flags/svg/be.svg,Framework Only,,Europe,Europe,Western Europe,Europe & Central Asia
+Belize,BZ,https://public.flourish.studio/country-flags/svg/bz.svg,No Trade Deal,,North America,Americas,Central America,Latin America & Caribbean
+Benin,BJ,https://public.flourish.studio/country-flags/svg/bj.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Bhutan,BT,https://public.flourish.studio/country-flags/svg/bt.svg,No Trade Deal,,Asia,Asia,Southern Asia,South Asia
+Bolivia,BO,https://public.flourish.studio/country-flags/svg/bo.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+Bosnia and Herzegovina,BA,https://public.flourish.studio/country-flags/svg/ba.svg,No Trade Deal,,Europe,Europe,Southern Europe,Europe & Central Asia
+Botswana,BW,https://public.flourish.studio/country-flags/svg/bw.svg,No Trade Deal,,Africa,Africa,Southern Africa,Sub-Saharan Africa
+Brazil,BR,https://public.flourish.studio/country-flags/svg/br.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+Brunei,BN,https://public.flourish.studio/country-flags/svg/bn.svg,No Trade Deal,,Asia,Asia,South-Eastern Asia,East Asia & Pacific
+Bulgaria,BG,https://public.flourish.studio/country-flags/svg/bg.svg,Framework Only,,Europe,Europe,Eastern Europe,Europe & Central Asia
+Burkina Faso,BF,https://public.flourish.studio/country-flags/svg/bf.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Burundi,BI,https://public.flourish.studio/country-flags/svg/bi.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Cameroon,CM,https://public.flourish.studio/country-flags/svg/cm.svg,No Trade Deal,,Africa,Africa,Middle Africa,Sub-Saharan Africa
+Canada,CA,https://public.flourish.studio/country-flags/svg/ca.svg,No Trade Deal,,North America,Americas,Northern America,North America
+Central African Republic,CF,https://public.flourish.studio/country-flags/svg/cf.svg,No Trade Deal,,Africa,Africa,Middle Africa,Sub-Saharan Africa
+Chad,TD,https://public.flourish.studio/country-flags/svg/td.svg,No Trade Deal,,Africa,Africa,Middle Africa,Sub-Saharan Africa
+Chile,CL,https://public.flourish.studio/country-flags/svg/cl.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+China,CN,https://public.flourish.studio/country-flags/svg/cn.svg,No Trade Deal,,Asia,Asia,Eastern Asia,East Asia & Pacific
+Colombia,CO,https://public.flourish.studio/country-flags/svg/co.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+Costa Rica,CR,https://public.flourish.studio/country-flags/svg/cr.svg,No Trade Deal,,North America,Americas,Central America,Latin America & Caribbean
+Croatia,HR,https://public.flourish.studio/country-flags/svg/hr.svg,Framework Only,,Europe,Europe,Southern Europe,Europe & Central Asia
+Cuba,CU,https://public.flourish.studio/country-flags/svg/cu.svg,No Trade Deal,,North America,Americas,Caribbean,Latin America & Caribbean
+Cyprus,CY,https://public.flourish.studio/country-flags/svg/cy.svg,Framework Only,,Asia,Asia,Western Asia,Europe & Central Asia
+Czechia,CZ,https://public.flourish.studio/country-flags/svg/cz.svg,Framework Only,,Europe,Europe,Eastern Europe,Europe & Central Asia
+Democratic Republic of the Congo,CD,https://public.flourish.studio/country-flags/svg/cd.svg,No Trade Deal,,Africa,Africa,Middle Africa,Sub-Saharan Africa
+Denmark,DK,https://public.flourish.studio/country-flags/svg/dk.svg,Framework Only,,Europe,Europe,Northern Europe,Europe & Central Asia
+Djibouti,DJ,https://public.flourish.studio/country-flags/svg/dj.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Middle East & North Africa
+Dominican Republic,DO,https://public.flourish.studio/country-flags/svg/do.svg,No Trade Deal,,North America,Americas,Caribbean,Latin America & Caribbean
+East Timor,TL,https://public.flourish.studio/country-flags/svg/tl.svg,No Trade Deal,,Asia,Asia,South-Eastern Asia,East Asia & Pacific
+Egypt,EG,https://public.flourish.studio/country-flags/svg/eg.svg,No Trade Deal,,Africa,Africa,Northern Africa,Middle East & North Africa
+El Salvador,SV,https://public.flourish.studio/country-flags/svg/sv.svg,No Trade Deal,,North America,Americas,Central America,Latin America & Caribbean
+Equatorial Guinea,GQ,https://public.flourish.studio/country-flags/svg/gq.svg,No Trade Deal,,Africa,Africa,Middle Africa,Sub-Saharan Africa
+Eritrea,ER,https://public.flourish.studio/country-flags/svg/er.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Estonia,EE,https://public.flourish.studio/country-flags/svg/ee.svg,Framework Only,,Europe,Europe,Northern Europe,Europe & Central Asia
+eSwatini,SZ,https://public.flourish.studio/country-flags/svg/sz.svg,No Trade Deal,,Africa,Africa,Southern Africa,Sub-Saharan Africa
+Ethiopia,ET,https://public.flourish.studio/country-flags/svg/et.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Falkland Islands,FK,https://public.flourish.studio/country-flags/svg/fk.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+Fiji,FJ,https://public.flourish.studio/country-flags/svg/fj.svg,No Trade Deal,,Oceania,Oceania,Melanesia,East Asia & Pacific
+Finland,FI,https://public.flourish.studio/country-flags/svg/fi.svg,Framework Only,,Europe,Europe,Northern Europe,Europe & Central Asia
+France,FR,https://public.flourish.studio/country-flags/svg/fr.svg,Framework Only,,Europe,Europe,Western Europe,Europe & Central Asia
+French Guiana,GF,https://public.flourish.studio/country-flags/svg/gf.svg,No Trade Deal,,Europe,Europe,Western Europe,Europe & Central Asia
+French Southern and Antarctic Lands,TF,https://public.flourish.studio/country-flags/svg/tf.svg,No Trade Deal,,Seven seas (open ocean),Africa,Seven seas (open ocean),Sub-Saharan Africa
+Gabon,GA,https://public.flourish.studio/country-flags/svg/ga.svg,No Trade Deal,,Africa,Africa,Middle Africa,Sub-Saharan Africa
+Gambia,GM,https://public.flourish.studio/country-flags/svg/gm.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Georgia,GE,https://public.flourish.studio/country-flags/svg/ge.svg,No Trade Deal,,Asia,Asia,Western Asia,Europe & Central Asia
+Germany,DE,https://public.flourish.studio/country-flags/svg/de.svg,Framework Only,,Europe,Europe,Western Europe,Europe & Central Asia
+Ghana,GH,https://public.flourish.studio/country-flags/svg/gh.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Greece,GR,https://public.flourish.studio/country-flags/svg/gr.svg,Framework Only,,Europe,Europe,Southern Europe,Europe & Central Asia
+Greenland,GL,https://public.flourish.studio/country-flags/svg/gl.svg,No Trade Deal,,North America,Americas,Northern America,Europe & Central Asia
+Guinea,GN,https://public.flourish.studio/country-flags/svg/gn.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Guinea-Bissau,GW,https://public.flourish.studio/country-flags/svg/gw.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Guyana,GY,https://public.flourish.studio/country-flags/svg/gy.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+Haiti,HT,https://public.flourish.studio/country-flags/svg/ht.svg,No Trade Deal,,North America,Americas,Caribbean,Latin America & Caribbean
+Honduras,HN,https://public.flourish.studio/country-flags/svg/hn.svg,No Trade Deal,,North America,Americas,Central America,Latin America & Caribbean
+Hungary,HU,https://public.flourish.studio/country-flags/svg/hu.svg,Framework Only,,Europe,Europe,Eastern Europe,Europe & Central Asia
+Iceland,IS,https://public.flourish.studio/country-flags/svg/is.svg,No Trade Deal,,Europe,Europe,Northern Europe,Europe & Central Asia
+India,IN,https://public.flourish.studio/country-flags/svg/in.svg,No Trade Deal,,Asia,Asia,Southern Asia,South Asia
+Iran,IR,https://public.flourish.studio/country-flags/svg/ir.svg,No Trade Deal,,Asia,Asia,Southern Asia,Middle East & North Africa
+Iraq,IQ,https://public.flourish.studio/country-flags/svg/iq.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+Ireland,IE,https://public.flourish.studio/country-flags/svg/ie.svg,Framework Only,,Europe,Europe,Northern Europe,Europe & Central Asia
+Israel,IL,https://public.flourish.studio/country-flags/svg/il.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+Italy,IT,https://public.flourish.studio/country-flags/svg/it.svg,Framework Only,,Europe,Europe,Southern Europe,Europe & Central Asia
+Ivory Coast,CI,https://public.flourish.studio/country-flags/svg/ci.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Jamaica,JM,https://public.flourish.studio/country-flags/svg/jm.svg,No Trade Deal,,North America,Americas,Caribbean,Latin America & Caribbean
+Jordan,JO,https://public.flourish.studio/country-flags/svg/jo.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+Kazakhstan,KZ,https://public.flourish.studio/country-flags/svg/kz.svg,No Trade Deal,,Asia,Asia,Central Asia,Europe & Central Asia
+Kenya,KE,https://public.flourish.studio/country-flags/svg/ke.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Kosovo,XK,https://public.flourish.studio/country-flags/svg/xk.svg,No Trade Deal,,Europe,Europe,Southern Europe,Europe & Central Asia
+Kuwait,KW,https://public.flourish.studio/country-flags/svg/kw.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+Kyrgyzstan,KG,https://public.flourish.studio/country-flags/svg/kg.svg,No Trade Deal,,Asia,Asia,Central Asia,Europe & Central Asia
+Laos,LA,https://public.flourish.studio/country-flags/svg/la.svg,No Trade Deal,,Asia,Asia,South-Eastern Asia,East Asia & Pacific
+Latvia,LV,https://public.flourish.studio/country-flags/svg/lv.svg,Framework Only,,Europe,Europe,Northern Europe,Europe & Central Asia
+Lebanon,LB,https://public.flourish.studio/country-flags/svg/lb.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+Lesotho,LS,https://public.flourish.studio/country-flags/svg/ls.svg,No Trade Deal,,Africa,Africa,Southern Africa,Sub-Saharan Africa
+Liberia,LR,https://public.flourish.studio/country-flags/svg/lr.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Libya,LY,https://public.flourish.studio/country-flags/svg/ly.svg,No Trade Deal,,Africa,Africa,Northern Africa,Middle East & North Africa
+Lithuania,LT,https://public.flourish.studio/country-flags/svg/lt.svg,Framework Only,,Europe,Europe,Northern Europe,Europe & Central Asia
+Luxembourg,LU,https://public.flourish.studio/country-flags/svg/lu.svg,Framework Only,,Europe,Europe,Western Europe,Europe & Central Asia
+Madagascar,MG,https://public.flourish.studio/country-flags/svg/mg.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Malawi,MW,https://public.flourish.studio/country-flags/svg/mw.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Mali,ML,https://public.flourish.studio/country-flags/svg/ml.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Mauritania,MR,https://public.flourish.studio/country-flags/svg/mr.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Mexico,MX,https://public.flourish.studio/country-flags/svg/mx.svg,No Trade Deal,,North America,Americas,Central America,Latin America & Caribbean
+Moldova,MD,https://public.flourish.studio/country-flags/svg/md.svg,No Trade Deal,,Europe,Europe,Eastern Europe,Europe & Central Asia
+Mongolia,MN,https://public.flourish.studio/country-flags/svg/mn.svg,No Trade Deal,,Asia,Asia,Eastern Asia,East Asia & Pacific
+Montenegro,ME,https://public.flourish.studio/country-flags/svg/me.svg,No Trade Deal,,Europe,Europe,Southern Europe,Europe & Central Asia
+Morocco,MA,https://public.flourish.studio/country-flags/svg/ma.svg,No Trade Deal,,Africa,Africa,Northern Africa,Middle East & North Africa
+Mozambique,MZ,https://public.flourish.studio/country-flags/svg/mz.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Myanmar,MM,https://public.flourish.studio/country-flags/svg/mm.svg,No Trade Deal,,Asia,Asia,South-Eastern Asia,East Asia & Pacific
+Namibia,NA,https://public.flourish.studio/country-flags/svg/na.svg,No Trade Deal,,Africa,Africa,Southern Africa,Sub-Saharan Africa
+Nepal,NP,https://public.flourish.studio/country-flags/svg/np.svg,No Trade Deal,,Asia,Asia,Southern Asia,South Asia
+Netherlands,NL,https://public.flourish.studio/country-flags/svg/nl.svg,Framework Only,,Europe,Europe,Western Europe,Europe & Central Asia
+New Caledonia,NC,https://public.flourish.studio/country-flags/svg/nc.svg,No Trade Deal,,Oceania,Oceania,Melanesia,East Asia & Pacific
+New Zealand,NZ,https://public.flourish.studio/country-flags/svg/nz.svg,No Trade Deal,,Oceania,Oceania,Australia and New Zealand,East Asia & Pacific
+Nicaragua,NI,https://public.flourish.studio/country-flags/svg/ni.svg,No Trade Deal,,North America,Americas,Central America,Latin America & Caribbean
+Niger,NE,https://public.flourish.studio/country-flags/svg/ne.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Nigeria,NG,https://public.flourish.studio/country-flags/svg/ng.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+North Korea,KP,https://public.flourish.studio/country-flags/svg/kp.svg,No Trade Deal,,Asia,Asia,Eastern Asia,East Asia & Pacific
+North Macedonia,MK,https://public.flourish.studio/country-flags/svg/mk.svg,No Trade Deal,,Europe,Europe,Southern Europe,Europe & Central Asia
+Northern Cyprus,CY,https://public.flourish.studio/country-flags/svg/cy.svg,No Trade Deal,,Asia,Asia,Western Asia,Europe & Central Asia
+Norway,NO,https://public.flourish.studio/country-flags/svg/no.svg,No Trade Deal,,Europe,Europe,Northern Europe,Europe & Central Asia
+Oman,OM,https://public.flourish.studio/country-flags/svg/om.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+Pakistan,PK,https://public.flourish.studio/country-flags/svg/pk.svg,No Trade Deal,,Asia,Asia,Southern Asia,South Asia
+Palestine,PS,https://public.flourish.studio/country-flags/svg/ps.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+Panama,PA,https://public.flourish.studio/country-flags/svg/pa.svg,No Trade Deal,,North America,Americas,Central America,Latin America & Caribbean
+Papua New Guinea,PG,https://public.flourish.studio/country-flags/svg/pg.svg,No Trade Deal,,Oceania,Oceania,Melanesia,East Asia & Pacific
+Paraguay,PY,https://public.flourish.studio/country-flags/svg/py.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+Peru,PE,https://public.flourish.studio/country-flags/svg/pe.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+Philippines,PH,https://public.flourish.studio/country-flags/svg/ph.svg,No Trade Deal,,Asia,Asia,South-Eastern Asia,East Asia & Pacific
+Poland,PL,https://public.flourish.studio/country-flags/svg/pl.svg,Framework Only,,Europe,Europe,Eastern Europe,Europe & Central Asia
+Portugal,PT,https://public.flourish.studio/country-flags/svg/pt.svg,Framework Only,,Europe,Europe,Southern Europe,Europe & Central Asia
+Puerto Rico,PR,https://public.flourish.studio/country-flags/svg/pr.svg,No Trade Deal,,North America,Americas,Caribbean,Latin America & Caribbean
+Qatar,QA,https://public.flourish.studio/country-flags/svg/qa.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+Republic of Serbia,RS,https://public.flourish.studio/country-flags/svg/rs.svg,No Trade Deal,,Europe,Europe,Southern Europe,Europe & Central Asia
+Republic of the Congo,CG,https://public.flourish.studio/country-flags/svg/cg.svg,No Trade Deal,,Africa,Africa,Middle Africa,Sub-Saharan Africa
+Romania,RO,https://public.flourish.studio/country-flags/svg/ro.svg,Framework Only,,Europe,Europe,Eastern Europe,Europe & Central Asia
+Russia,RU,https://public.flourish.studio/country-flags/svg/ru.svg,No Trade Deal,,Europe,Europe,Eastern Europe,Europe & Central Asia
+Rwanda,RW,https://public.flourish.studio/country-flags/svg/rw.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Saudi Arabia,SA,https://public.flourish.studio/country-flags/svg/sa.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+Senegal,SN,https://public.flourish.studio/country-flags/svg/sn.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Sierra Leone,SL,https://public.flourish.studio/country-flags/svg/sl.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Singapore,SG,https://public.flourish.studio/country-flags/svg/sg.svg,No Trade Deal,,Asia,Asia,South-Eastern Asia,East Asia & Pacific
+Slovakia,SK,https://public.flourish.studio/country-flags/svg/sk.svg,Framework Only,,Europe,Europe,Eastern Europe,Europe & Central Asia
+Slovenia,SI,https://public.flourish.studio/country-flags/svg/si.svg,Framework Only,,Europe,Europe,Southern Europe,Europe & Central Asia
+Solomon Islands,SB,https://public.flourish.studio/country-flags/svg/sb.svg,No Trade Deal,,Oceania,Oceania,Melanesia,East Asia & Pacific
+Somalia,SO,https://public.flourish.studio/country-flags/svg/so.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Somaliland,,,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+South Africa,ZA,https://public.flourish.studio/country-flags/svg/za.svg,No Trade Deal,,Africa,Africa,Southern Africa,Sub-Saharan Africa
+South Korea,KR,https://public.flourish.studio/country-flags/svg/kr.svg,No Trade Deal,,Asia,Asia,Eastern Asia,East Asia & Pacific
+South Sudan,SS,https://public.flourish.studio/country-flags/svg/ss.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Spain,ES,https://public.flourish.studio/country-flags/svg/es.svg,Framework Only,,Europe,Europe,Southern Europe,Europe & Central Asia
+Sri Lanka,LK,https://public.flourish.studio/country-flags/svg/lk.svg,No Trade Deal,,Asia,Asia,Southern Asia,South Asia
+Sudan,SD,https://public.flourish.studio/country-flags/svg/sd.svg,No Trade Deal,,Africa,Africa,Northern Africa,Sub-Saharan Africa
+Suriname,SR,https://public.flourish.studio/country-flags/svg/sr.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+Sweden,SE,https://public.flourish.studio/country-flags/svg/se.svg,Framework Only,,Europe,Europe,Northern Europe,Europe & Central Asia
+Switzerland,CH,https://public.flourish.studio/country-flags/svg/ch.svg,No Trade Deal,,Europe,Europe,Western Europe,Europe & Central Asia
+Syria,SY,https://public.flourish.studio/country-flags/svg/sy.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+Tajikistan,TJ,https://public.flourish.studio/country-flags/svg/tj.svg,No Trade Deal,,Asia,Asia,Central Asia,Europe & Central Asia
+The Bahamas,BS,https://public.flourish.studio/country-flags/svg/bs.svg,No Trade Deal,,North America,Americas,Caribbean,Latin America & Caribbean
+Togo,TG,https://public.flourish.studio/country-flags/svg/tg.svg,No Trade Deal,,Africa,Africa,Western Africa,Sub-Saharan Africa
+Trinidad and Tobago,TT,https://public.flourish.studio/country-flags/svg/tt.svg,No Trade Deal,,North America,Americas,Caribbean,Latin America & Caribbean
+Tunisia,TN,https://public.flourish.studio/country-flags/svg/tn.svg,No Trade Deal,,Africa,Africa,Northern Africa,Middle East & North Africa
+Turkey,TR,https://public.flourish.studio/country-flags/svg/tr.svg,No Trade Deal,,Asia,Asia,Western Asia,Europe & Central Asia
+Turkmenistan,TM,https://public.flourish.studio/country-flags/svg/tm.svg,No Trade Deal,,Asia,Asia,Central Asia,Europe & Central Asia
+Uganda,UG,https://public.flourish.studio/country-flags/svg/ug.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Ukraine,UA,https://public.flourish.studio/country-flags/svg/ua.svg,No Trade Deal,,Europe,Europe,Eastern Europe,Europe & Central Asia
+United Arab Emirates,AE,https://public.flourish.studio/country-flags/svg/ae.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+United Republic of Tanzania,TZ,https://public.flourish.studio/country-flags/svg/tz.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+United States of America,US,https://public.flourish.studio/country-flags/svg/us.svg,No Trade Deal,,North America,Americas,Northern America,North America
+Uruguay,UY,https://public.flourish.studio/country-flags/svg/uy.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+Uzbekistan,UZ,https://public.flourish.studio/country-flags/svg/uz.svg,No Trade Deal,,Asia,Asia,Central Asia,Europe & Central Asia
+Vanuatu,VU,https://public.flourish.studio/country-flags/svg/vu.svg,No Trade Deal,,Oceania,Oceania,Melanesia,East Asia & Pacific
+Venezuela,VE,https://public.flourish.studio/country-flags/svg/ve.svg,No Trade Deal,,South America,Americas,South America,Latin America & Caribbean
+Western Sahara,EH,https://public.flourish.studio/country-flags/svg/eh.svg,No Trade Deal,,Africa,Africa,Northern Africa,Middle East & North Africa
+Yemen,YE,https://public.flourish.studio/country-flags/svg/ye.svg,No Trade Deal,,Asia,Asia,Western Asia,Middle East & North Africa
+Zambia,ZM,https://public.flourish.studio/country-flags/svg/zm.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
+Zimbabwe,ZW,https://public.flourish.studio/country-flags/svg/zw.svg,No Trade Deal,,Africa,Africa,Eastern Africa,Sub-Saharan Africa
