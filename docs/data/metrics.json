@@ -1,0 +1,43 @@
+{
+  "meta": {
+    "title": "Executive Dashboard",
+    "version": "2.1",
+    "updated": "2026-05-12",
+    "nextUpdate": "2026-06-09"
+  },
+  "headline": {
+    "gePlants": { "value": "98", "label": "GE Plants" },
+    "geAssociates": { "value": "129", "label": "GE Associates" },
+    "pendingSREs": { "value": "37", "label": "SRE Petitions Pending", "note": "as of 4/16" },
+    "pipelinePlants": { "value": "72", "label": "Plants Committed to Pipelines", "note": "43 GE Members" }
+  },
+  "exports": {
+    "ethanol12moTotal": { "value": "2.269", "unit": "bg", "label": "12-month Export Total" },
+    "ethanol2025Total": { "value": "2.18", "unit": "bg", "label": "2025 Total" },
+    "tradeMissionsYTD": { "value": "6", "label": "YTD Trade Missions", "note": "+3 Global Mtgs" },
+    "ddgs12moTotal": { "value": "11,867,258", "unit": "metric tons", "label": "12-month DDGs Export Total" },
+    "ddgs2025Total": { "value": "11,597,473", "unit": "mt", "label": "2025 Total" }
+  },
+  "e15Retail": {
+    "stations": { "value": "4,949", "label": "Stations" },
+    "states": { "value": "34", "label": "States" },
+    "consumerMiles": { "value": "225b", "label": "Consumer E15 Miles" },
+    "suppliersAtTerminals": { "value": "372 @ 166", "label": "Suppliers @ Terminals" },
+    "hlebStations": { "value": "7,698", "label": "HLEB (E15-E85) Stations" }
+  },
+  "sources": {
+    "industryOutput":       { "name": "EIA",       "url": "https://www.eia.gov/petroleum/data.php" },
+    "gasolineDemand":       { "name": "EIA",       "url": "https://www.eia.gov/petroleum/data.php" },
+    "top10States":          { "name": "EIA SEDS",  "url": "https://www.eia.gov/state/seds/" },
+    "ethanolConsumption":   { "name": "EIA",       "url": "https://www.eia.gov/petroleum/data.php" },
+    "exportTotals":         { "name": "USDA FAS",  "url": "https://www.fas.usda.gov/data" },
+    "totalEthanolExports":  { "name": "USDA FAS",  "url": "https://www.fas.usda.gov/data" },
+    "totalDdgsExports":     { "name": "USDA FAS",  "url": "https://www.fas.usda.gov/data" },
+    "expandingContracting": { "name": "USDA FAS",  "url": "https://www.fas.usda.gov/data" },
+    "e15Retail":            { "name": "Growth Energy", "url": "https://growthenergy.org" },
+    "e15RetailMap":         { "name": "Growth Energy", "url": "https://growthenergy.org" },
+    "e15ByState":           { "name": "Growth Energy", "url": "https://growthenergy.org" },
+    "rvo":                  { "name": "EPA",       "url": "https://www.epa.gov/renewable-fuel-standard-program" },
+    "pacCycles":            { "name": "Growth Energy (internal)", "url": "" }
+  }
+}

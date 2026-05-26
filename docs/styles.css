@@ -1,0 +1,205 @@
+/* Growth Energy Executive Dashboard — prototype styles
+   Palette pulled from the v2.1 PPT dashboard. Adjust to brand guide as needed. */
+:root {
+  --navy:      #1f3a5f;
+  --navy-dark: #16293f;
+  --blue:      #2f6db0;
+  --blue-light:#dbe7f3;
+  --teal:      #2c7a8c;
+  --coral:     #e8746b;
+  --coral-dk:  #c4564d;
+  --purple:    #7b6aa8;
+  --plum:      #4a3f63;
+  --ink:       #1c2b3a;
+  --muted:     #4d5a68; /* darkened for WCAG AA on light backgrounds (~7:1 on white) */
+  --bg:        #eef2f6;
+  --card:      #ffffff;
+  --radius:    10px;
+  --gap:       14px;
+  --shadow:    0 1px 3px rgba(20,41,63,.10), 0 1px 2px rgba(20,41,63,.06);
+  --font:      "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: var(--font);
+  font-size: 15px;
+  line-height: 1.35;
+}
+
+.dashboard {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: var(--gap);
+  /* 12-col responsive grid; tiles set their own spans */
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  gap: var(--gap);
+}
+
+/* ---- Generic tile ---- */
+.tile {
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 16px;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+.tile__title {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  color: var(--blue);
+  margin: 0 0 10px;
+}
+.tile--chart { padding: 12px; }
+.tile__title small { font-weight: 500; text-transform: none; color: var(--muted); letter-spacing: 0; }
+.tile__source {
+  font-size: 11px;
+  font-weight: 500;
+  font-style: italic;
+  color: var(--muted);
+  margin: -6px 0 10px;
+}
+.tile__source a { color: inherit; text-decoration: none; }
+.tile__source a[href] { color: var(--blue); }
+.tile__source a[href]:hover { text-decoration: underline; }
+.kpi .tile__source a[href] { color: #fff; text-decoration: underline; }
+
+/* ---- Header ---- */
+.header {
+  grid-column: span 12;
+  background: var(--blue-light);
+  border-radius: var(--radius);
+  padding: 18px 22px;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.header h1 { margin: 0; font-size: 30px; color: var(--ink); font-weight: 800; }
+.header .meta { font-size: 13px; color: var(--muted); }
+.header .meta strong { color: var(--ink); }
+.header .version { font-size: 13px; color: var(--muted); }
+
+/* ---- Big number tiles ---- */
+.stat {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+}
+.stat--navy { background: var(--navy); }
+.stat--blue { background: var(--blue); }
+.stat--coral { background: var(--coral); }
+.stat--teal { background: var(--teal); }
+.stat--purple { background: var(--plum); }
+.stat__value { font-size: 56px; font-weight: 800; line-height: 1; }
+.stat__label { font-size: 15px; font-weight: 600; margin-top: 6px; opacity: .95; }
+.stat__note  { font-size: 12px; margin-top: 4px; opacity: .8; }
+
+/* ---- Category band headers ---- */
+.band-header {
+  grid-column: 1 / -1;
+  margin-top: 6px;
+  padding: 9px 18px;
+  border-radius: 8px;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: .07em;
+}
+.band-header--production { background: var(--navy); }
+.band-header--demand     { background: var(--blue); }
+.band-header--trade      { background: var(--teal); }
+.band-header--retail     { background: var(--coral-dk); }
+.band-header--policy     { background: var(--plum); }
+
+/* ---- Mini-stat groups (e.g. E15 Retail block) ---- */
+.statgrid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.statgrid--single { grid-template-columns: 1fr; }
+.statgrid .mini { background: rgba(255,255,255,.08); border-radius: 6px; padding: 8px 10px; }
+.statgrid .mini__value { font-size: 24px; font-weight: 800; }
+.statgrid .mini__label { font-size: 11px; opacity: .85; }
+.tile--darkstat { background: var(--navy-dark); color: #fff; }
+.tile--darkstat .tile__title { color: #9fc0e0; }
+
+/* ---- Colored KPI tiles that hold a stat grid (per band) ---- */
+.kpi { color: #fff; }
+.kpi .tile__title { color: rgba(255,255,255,.95); }
+/* Small/source text on colored tiles must be light, not --muted gray
+   (muted ≈ same luminance as coral/teal → effectively invisible). */
+.kpi .tile__title small { color: rgba(255,255,255,.9); }
+.kpi .tile__source { color: rgba(255,255,255,.9); }
+.kpi .statgrid .mini { background: rgba(255,255,255,.14); }
+/* KPI fills are darker than their band headers so 11px text clears WCAG AA
+   (4.5:1) — the lighter band-header shades only carry large bold text. */
+.kpi--teal  { background: #226270; }
+.kpi--coral { background: #a23d35; }
+.kpi--navy  { background: var(--navy); }
+.kpi--plum  { background: var(--plum); }
+
+/* ---- Flourish embed placeholder ---- */
+.embed {
+  flex: 1;
+  min-height: 220px;
+  border: 2px dashed #c3d0dd;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: var(--muted);
+  font-size: 13px;
+  padding: 16px;
+  background: repeating-linear-gradient(45deg, #f7fafc, #f7fafc 10px, #f1f5f9 10px, #f1f5f9 20px);
+}
+.embed code { background: #e3ebf2; padding: 1px 5px; border-radius: 4px; font-size: 12px; }
+
+/* When a slot actually holds a Flourish embed, drop the placeholder look
+   (dashed border, stripes, centering) and let the chart fill the tile. */
+.embed:has(.flourish-embed) {
+  display: block;
+  border: none;
+  background: none;
+  padding: 0;
+  min-height: 0;
+}
+.flourish-embed { flex: 1; min-height: 220px; margin: 0 !important; }
+
+/* ---- Column spans (desktop) ---- */
+.span-2 { grid-column: span 2; }
+.span-3 { grid-column: span 3; }
+.span-4 { grid-column: span 4; }
+.span-5 { grid-column: span 5; }
+.span-6 { grid-column: span 6; }
+.span-7 { grid-column: span 7; }
+.span-8 { grid-column: span 8; }
+
+/* ---- Responsive ---- */
+@media (max-width: 1100px) {
+  .span-2, .span-3, .span-4 { grid-column: span 6; }
+  .span-5, .span-7 { grid-column: span 6; }
+  .span-6, .span-8 { grid-column: span 12; }
+}
+@media (max-width: 640px) {
+  .dashboard > * { grid-column: span 12 !important; }
+  .header h1 { font-size: 24px; }
+  .stat__value { font-size: 44px; }
+}
+
+footer {
+  grid-column: span 12;
+  text-align: center;
+  color: var(--muted);
+  font-size: 12px;
+  padding: 8px;
+}

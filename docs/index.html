@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Growth Energy — Executive Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="dashboard">
+
+    <!-- ============ HEADER ============ -->
+    <header class="header">
+      <div>
+        <h1 id="dash-title">Executive Dashboard</h1>
+        <div class="meta">
+          Updated: <strong id="dash-updated">—</strong>
+          &nbsp;·&nbsp; Next update: <em id="dash-next">—</em>
+        </div>
+      </div>
+      <div class="version" id="dash-version">Version 2.1</div>
+    </header>
+
+    <!-- ================================================================ -->
+    <!-- BAND 1 · PRODUCTION & INDUSTRY                          (navy)    -->
+    <!-- ================================================================ -->
+    <div class="band-header band-header--production">Production &amp; Industry</div>
+
+    <section class="tile stat stat--navy span-2">
+      <div class="stat__value" data-metric="headline.gePlants">98</div>
+      <div class="stat__label" data-metric="headline.gePlants" data-field="label">GE Plants</div>
+    </section>
+
+    <section class="tile stat stat--navy span-2">
+      <div class="stat__value" data-metric="headline.geAssociates">129</div>
+      <div class="stat__label" data-metric="headline.geAssociates" data-field="label">GE Associates</div>
+    </section>
+
+    <section class="tile tile--chart span-8">
+      <h3 class="tile__title">Industry Output</h3>
+      <div class="tile__source">Source: <a data-metric="sources.industryOutput" href="#">EIA</a></div>
+      <div class="embed"><div class="flourish-embed flourish-chart" data-src="visualisation/28976835?442209"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28976835/thumbnail" width="100%" alt="chart visualization" /></noscript></div></div>
+    </section>
+
+    <!-- ================================================================ -->
+    <!-- BAND 2 · DEMAND & BLENDING                              (blue)    -->
+    <!-- ================================================================ -->
+    <div class="band-header band-header--demand">Demand &amp; Blending</div>
+
+    <section class="tile tile--chart span-4">
+      <h3 class="tile__title">Gasoline Demand</h3>
+      <div class="tile__source">Source: <a data-metric="sources.gasolineDemand" href="#">EIA</a></div>
+      <div class="embed"><div class="flourish-embed flourish-chart" data-src="visualisation/29049686?442209"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29049686/thumbnail" width="100%" alt="chart visualization" /></noscript></div></div>
+    </section>
+
+    <section class="tile tile--chart span-4">
+      <h3 class="tile__title">Top 10 States <small>(million gallons)</small></h3>
+      <div class="tile__source">Source: <a data-metric="sources.top10States" href="#">EIA SEDS</a></div>
+      <div class="embed">Flourish embed slot — <code>Top 10 States</code></div>
+    </section>
+
+    <section class="tile tile--chart span-4">
+      <h3 class="tile__title">Ethanol Consumption &amp; Nat. Blend %</h3>
+      <div class="tile__source">Source: <a data-metric="sources.ethanolConsumption" href="#">EIA</a></div>
+      <div class="embed"><div class="flourish-embed flourish-chart" data-src="visualisation/29050886?442209"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29050886/thumbnail" width="100%" alt="chart visualization" /></noscript></div></div>
+    </section>
+
+    <!-- ================================================================ -->
+    <!-- BAND 3 · TRADE & EXPORTS                                (teal)    -->
+    <!-- ================================================================ -->
+    <div class="band-header band-header--trade">Trade &amp; Exports</div>
+
+    <section class="tile kpi kpi--teal span-2">
+      <h3 class="tile__title">Export Totals</h3>
+      <div class="tile__source">Source: <a data-metric="sources.exportTotals" href="#">USDA FAS</a></div>
+      <div class="statgrid statgrid--single">
+        <div class="mini">
+          <div class="mini__value" data-metric="exports.ethanol12moTotal">2.269</div>
+          <div class="mini__label">12-mo Ethanol Exports (bg)</div>
+        </div>
+        <div class="mini">
+          <div class="mini__value" data-metric="exports.tradeMissionsYTD">6</div>
+          <div class="mini__label">YTD Trade Missions</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="tile tile--chart span-4">
+      <h3 class="tile__title">Total Ethanol Exports</h3>
+      <div class="tile__source">Source: <a data-metric="sources.totalEthanolExports" href="#">USDA FAS</a></div>
+      <div class="embed"><div class="flourish-embed flourish-chart" data-src="visualisation/29028324?442209"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29028324/thumbnail" width="100%" alt="chart visualization" /></noscript></div></div>
+    </section>
+
+    <section class="tile tile--chart span-3">
+      <h3 class="tile__title">Total DDGs Exports</h3>
+      <div class="tile__source">Source: <a data-metric="sources.totalDdgsExports" href="#">USDA FAS</a></div>
+      <div class="embed"><div class="flourish-embed flourish-chart" data-src="visualisation/26609620?442209"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26609620/thumbnail" width="100%" alt="chart visualization" /></noscript></div></div>
+    </section>
+
+    <section class="tile tile--chart span-3">
+      <h3 class="tile__title">Expanding &amp; Contracting Markets <small>(12-mo YoY)</small></h3>
+      <div class="tile__source">Source: <a data-metric="sources.expandingContracting" href="#">USDA FAS</a></div>
+      <div class="embed"><div class="flourish-embed flourish-chart" data-src="visualisation/28673936?442209" data-height="100%"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28673936/thumbnail" width="100%" height="100%" alt="chart visualization" /></noscript></div></div>
+    </section>
+
+    <!-- ================================================================ -->
+    <!-- BAND 4 · RETAIL & E15                                   (coral)   -->
+    <!-- ================================================================ -->
+    <div class="band-header band-header--retail">Retail &amp; E15</div>
+
+    <section class="tile kpi kpi--coral span-3">
+      <h3 class="tile__title">E15 Retail <small>(latest)</small></h3>
+      <div class="tile__source">Source: <a data-metric="sources.e15Retail" href="#">Growth Energy</a></div>
+      <div class="statgrid">
+        <div class="mini">
+          <div class="mini__value" data-metric="e15Retail.stations">4,949</div>
+          <div class="mini__label">Stations</div>
+        </div>
+        <div class="mini">
+          <div class="mini__value" data-metric="e15Retail.states">34</div>
+          <div class="mini__label">States</div>
+        </div>
+        <div class="mini">
+          <div class="mini__value" data-metric="e15Retail.consumerMiles">225b</div>
+          <div class="mini__label">Consumer E15 Miles</div>
+        </div>
+        <div class="mini">
+          <div class="mini__value" data-metric="e15Retail.hlebStations">7,698</div>
+          <div class="mini__label">HLEB Stations</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="tile tile--chart span-4">
+      <h3 class="tile__title">E15 Retail Map</h3>
+      <div class="tile__source">Source: <a data-metric="sources.e15RetailMap" href="#">Growth Energy</a></div>
+      <div class="embed"><div class="flourish-embed flourish-map" data-src="visualisation/29078915?442209"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29078915/thumbnail" width="100%" alt="map visualization" /></noscript></div></div>
+    </section>
+
+    <section class="tile tile--chart span-5">
+      <h3 class="tile__title">E15 by State</h3>
+      <div class="tile__source">Source: <a data-metric="sources.e15ByState" href="#">Growth Energy</a></div>
+      <div class="embed">Flourish embed slot — <code>E15 by State</code></div>
+    </section>
+
+    <!-- ================================================================ -->
+    <!-- BAND 5 · POLICY & REGULATORY                            (plum)    -->
+    <!-- ================================================================ -->
+    <div class="band-header band-header--policy">Policy &amp; Regulatory</div>
+
+    <section class="tile stat stat--purple span-2">
+      <div class="stat__value" data-metric="headline.pendingSREs">37</div>
+      <div class="stat__label" data-metric="headline.pendingSREs" data-field="label">Pending SREs</div>
+      <div class="stat__note" data-metric="headline.pendingSREs" data-field="note">as of 4/16</div>
+    </section>
+
+    <section class="tile stat stat--purple span-2">
+      <div class="stat__value" data-metric="headline.pipelinePlants">72</div>
+      <div class="stat__label" data-metric="headline.pipelinePlants" data-field="label">Plants in Pipelines</div>
+      <div class="stat__note" data-metric="headline.pipelinePlants" data-field="note">43 GE Members</div>
+    </section>
+
+    <section class="tile tile--chart span-4">
+      <h3 class="tile__title">Renewable Volume Requirements</h3>
+      <div class="tile__source">Source: <a data-metric="sources.rvo" href="#">EPA</a></div>
+      <div class="embed">Flourish embed slot — <code>RVO table</code></div>
+    </section>
+
+    <section class="tile tile--chart span-4">
+      <h3 class="tile__title">PAC Cycles</h3>
+      <div class="tile__source">Source: <a data-metric="sources.pacCycles" href="#">Growth Energy (internal)</a></div>
+      <div class="embed">Flourish embed slot — <code>PAC Cycles</code></div>
+    </section>
+
+    <footer>
+      Growth Energy · prototype dashboard · data lives in this repo · charts via Flourish
+    </footer>
+
+  </main>
+  <script src="dashboard.js"></script>
+</body>
+</html>
