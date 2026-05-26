@@ -6,8 +6,10 @@
   --blue:      #2f6db0;
   --blue-light:#dbe7f3;
   --teal:      #2c7a8c;
+  --teal-deep: #226270; /* accessible KPI/banner fill — see Trade band */
   --coral:     #e8746b;
   --coral-dk:  #c4564d;
+  --coral-deep:#a23d35; /* accessible KPI/banner fill — see Retail band */
   --purple:    #7b6aa8;
   --plum:      #4a3f63;
   --ink:       #1c2b3a;
@@ -119,8 +121,8 @@ body {
 }
 .band-header--production { background: var(--navy); }
 .band-header--demand     { background: var(--blue); }
-.band-header--trade      { background: var(--teal); }
-.band-header--retail     { background: var(--coral-dk); }
+.band-header--trade      { background: var(--teal-deep); }
+.band-header--retail     { background: var(--coral-deep); }
 .band-header--policy     { background: var(--plum); }
 
 /* ---- Mini-stat groups (e.g. E15 Retail block) ---- */
@@ -142,8 +144,68 @@ body {
 .kpi .statgrid .mini { background: rgba(255,255,255,.14); }
 /* KPI fills are darker than their band headers so 11px text clears WCAG AA
    (4.5:1) — the lighter band-header shades only carry large bold text. */
-.kpi--teal  { background: #226270; }
-.kpi--coral { background: #a23d35; }
+.kpi--teal  { background: var(--teal-deep); }
+.kpi--coral { background: var(--coral-deep); }
+
+/* Commodity-grouped KPI list (Export Totals): sub-header carries the unit so
+   ethanol (bg) and DDGs (metric tons) can't be misread as the same scale. */
+.kpi-group { margin-top: 12px; }
+.kpi-group__label {
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: rgba(255,255,255,.9);
+  padding-bottom: 3px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid rgba(255,255,255,.25);
+}
+.kpi-group__label span {
+  font-weight: 500;
+  text-transform: none;
+  letter-spacing: 0;
+  opacity: .8;
+}
+.kpi-row { display: flex; align-items: baseline; gap: 8px; padding: 2px 0; }
+.kpi-row__val { font-size: 22px; font-weight: 800; line-height: 1.1; }
+.kpi-row__lbl { font-size: 11px; opacity: .9; }
+
+/* ---- Ranked bar list (Top 10 States) ---- */
+.barlist { flex: 1; display: flex; flex-direction: column; justify-content: space-between; gap: 4px; padding-top: 4px; }
+.barlist__row {
+  display: grid;
+  grid-template-columns: 96px 1fr auto;
+  align-items: center;
+  gap: 8px;
+}
+.barlist__name {
+  font-size: 12px;
+  color: var(--ink);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.barlist__track {
+  background: #e7edf3;
+  border-radius: 4px;
+  height: 14px;
+  overflow: hidden;
+}
+.barlist__bar {
+  display: block;
+  height: 100%;
+  background: var(--blue);
+  border-radius: 4px;
+}
+.barlist__val {
+  font-size: 12px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+  color: var(--ink);
+  text-align: right;
+  min-width: 44px;
+}
+.barlist__loading, .barlist__error { color: var(--muted); font-size: 12px; }
 .kpi--navy  { background: var(--navy); }
 .kpi--plum  { background: var(--plum); }
 

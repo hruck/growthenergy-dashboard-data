@@ -14,9 +14,10 @@
   "exports": {
     "ethanol12moTotal": { "value": "2.269", "unit": "bg", "label": "12-month Export Total" },
     "ethanol2025Total": { "value": "2.18", "unit": "bg", "label": "2025 Total" },
-    "tradeMissionsYTD": { "value": "6", "label": "YTD Trade Missions", "note": "+3 Global Mtgs" },
-    "ddgs12moTotal": { "value": "11,867,258", "unit": "metric tons", "label": "12-month DDGs Export Total" },
-    "ddgs2025Total": { "value": "11,597,473", "unit": "mt", "label": "2025 Total" }
+    "tradeMissionsYTD": { "value": "6", "label": "YTD Trade Missions" },
+    "globalMeetings": { "value": "3", "label": "Global Meetings" },
+    "ddgs12moTotal": { "value": "11,867,258", "short": "11.87M", "unit": "metric tons", "label": "12-month DDGs Export Total" },
+    "ddgs2025Total": { "value": "11,597,473", "short": "11.60M", "unit": "mt", "label": "2025 Total" }
   },
   "e15Retail": {
     "stations": { "value": "4,949", "label": "Stations" },

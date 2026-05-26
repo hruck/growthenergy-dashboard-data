@@ -56,7 +56,7 @@
     <section class="tile tile--chart span-4">
       <h3 class="tile__title">Top 10 States <small>(million gallons)</small></h3>
       <div class="tile__source">Source: <a data-metric="sources.top10States" href="#">EIA SEDS</a></div>
-      <div class="embed">Flourish embed slot — <code>Top 10 States</code></div>
+      <div class="embed">Flourish embed slot — <code>Top 10 States</code><br>data: <code>retail/fuel_ethanol_by_state_top10.csv</code></div>
     </section>
 
     <section class="tile tile--chart span-4">
@@ -73,14 +73,40 @@
     <section class="tile kpi kpi--teal span-2">
       <h3 class="tile__title">Export Totals</h3>
       <div class="tile__source">Source: <a data-metric="sources.exportTotals" href="#">USDA FAS</a></div>
-      <div class="statgrid statgrid--single">
-        <div class="mini">
-          <div class="mini__value" data-metric="exports.ethanol12moTotal">2.269</div>
-          <div class="mini__label">12-mo Ethanol Exports (bg)</div>
+
+      <div class="kpi-group">
+        <div class="kpi-group__label">Ethanol <span>billion gal</span></div>
+        <div class="kpi-row">
+          <span class="kpi-row__val" data-metric="exports.ethanol12moTotal">2.269</span>
+          <span class="kpi-row__lbl">12-mo</span>
         </div>
-        <div class="mini">
-          <div class="mini__value" data-metric="exports.tradeMissionsYTD">6</div>
-          <div class="mini__label">YTD Trade Missions</div>
+        <div class="kpi-row">
+          <span class="kpi-row__val" data-metric="exports.ethanol2025Total">2.18</span>
+          <span class="kpi-row__lbl">2025</span>
+        </div>
+      </div>
+
+      <div class="kpi-group">
+        <div class="kpi-group__label">DDGs <span>metric tons</span></div>
+        <div class="kpi-row">
+          <span class="kpi-row__val" data-metric="exports.ddgs12moTotal" data-field="short">11.87M</span>
+          <span class="kpi-row__lbl">12-mo</span>
+        </div>
+        <div class="kpi-row">
+          <span class="kpi-row__val" data-metric="exports.ddgs2025Total" data-field="short">11.60M</span>
+          <span class="kpi-row__lbl">2025</span>
+        </div>
+      </div>
+
+      <div class="kpi-group">
+        <div class="kpi-group__label">Engagement</div>
+        <div class="kpi-row">
+          <span class="kpi-row__val" data-metric="exports.tradeMissionsYTD">6</span>
+          <span class="kpi-row__lbl">Trade Missions</span>
+        </div>
+        <div class="kpi-row">
+          <span class="kpi-row__val" data-metric="exports.globalMeetings">3</span>
+          <span class="kpi-row__lbl">Global Meetings</span>
         </div>
       </div>
     </section>
@@ -92,15 +118,21 @@
     </section>
 
     <section class="tile tile--chart span-3">
-      <h3 class="tile__title">Total DDGs Exports</h3>
-      <div class="tile__source">Source: <a data-metric="sources.totalDdgsExports" href="#">USDA FAS</a></div>
-      <div class="embed"><div class="flourish-embed flourish-chart" data-src="visualisation/26609620?442209"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26609620/thumbnail" width="100%" alt="chart visualization" /></noscript></div></div>
-    </section>
-
-    <section class="tile tile--chart span-3">
       <h3 class="tile__title">Expanding &amp; Contracting Markets <small>(12-mo YoY)</small></h3>
       <div class="tile__source">Source: <a data-metric="sources.expandingContracting" href="#">USDA FAS</a></div>
       <div class="embed"><div class="flourish-embed flourish-chart" data-src="visualisation/28673936?442209" data-height="100%"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/28673936/thumbnail" width="100%" height="100%" alt="chart visualization" /></noscript></div></div>
+    </section>
+
+    <section class="tile tile--chart span-3">
+      <h3 class="tile__title">Ethanol Exports (12 months)</h3>
+      <div class="tile__source">Source: <a data-metric="sources.rollingEthanolExports" href="#">USDA FAS</a></div>
+      <div class="embed"><div class="flourish-embed flourish-chart" data-src="visualisation/25071049?442209" data-height="100%"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/25071049/thumbnail" width="100%" height="100%" alt="chart visualization" /></noscript></div></div>
+    </section>
+
+    <section class="tile tile--chart span-3">
+      <h3 class="tile__title">DDGs Exports (12 months)</h3>
+      <div class="tile__source">Source: <a data-metric="sources.rollingDdgsExports" href="#">USDA FAS</a></div>
+      <div class="embed"><div class="flourish-embed flourish-chart" data-src="visualisation/26609620?442209"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/26609620/thumbnail" width="100%" alt="chart visualization" /></noscript></div></div>
     </section>
 
     <!-- ================================================================ -->
@@ -108,10 +140,10 @@
     <!-- ================================================================ -->
     <div class="band-header band-header--retail">Retail &amp; E15</div>
 
-    <section class="tile kpi kpi--coral span-3">
+    <section class="tile kpi kpi--coral span-2">
       <h3 class="tile__title">E15 Retail <small>(latest)</small></h3>
       <div class="tile__source">Source: <a data-metric="sources.e15Retail" href="#">Growth Energy</a></div>
-      <div class="statgrid">
+      <div class="statgrid statgrid--single">
         <div class="mini">
           <div class="mini__value" data-metric="e15Retail.stations">4,949</div>
           <div class="mini__label">Stations</div>
@@ -128,6 +160,10 @@
           <div class="mini__value" data-metric="e15Retail.hlebStations">7,698</div>
           <div class="mini__label">HLEB Stations</div>
         </div>
+        <div class="mini">
+          <div class="mini__value" data-metric="e15Retail.suppliersAtTerminals">372 @ 166</div>
+          <div class="mini__label">Suppliers @ Terminals</div>
+        </div>
       </div>
     </section>
 
@@ -137,7 +173,7 @@
       <div class="embed"><div class="flourish-embed flourish-map" data-src="visualisation/29078915?442209"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/29078915/thumbnail" width="100%" alt="map visualization" /></noscript></div></div>
     </section>
 
-    <section class="tile tile--chart span-5">
+    <section class="tile tile--chart span-6">
       <h3 class="tile__title">E15 by State</h3>
       <div class="tile__source">Source: <a data-metric="sources.e15ByState" href="#">Growth Energy</a></div>
       <div class="embed">Flourish embed slot — <code>E15 by State</code></div>
