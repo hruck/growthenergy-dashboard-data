@@ -1,11 +1,11 @@
 bucket,rank,cty_name,Gallons_Gain,Gallons_Loss,d_gallons,d_qty_liters,d_value_usd,flag
-Expanding,1,European Union (27),256265298.75432822,NA,256265298.75432822,970069874,622110830,https://public.flourish.studio/country-flags/svg/eu.svg
-Expanding,2,Canada,112494107.88023186,NA,112494107.88023186,425836606,197432192,https://public.flourish.studio/country-flags/svg/ca.svg
-Expanding,3,Brazil,61059129.462968,NA,61059129.462968,231133994,112607000,https://public.flourish.studio/country-flags/svg/br.svg
-Expanding,4,Jamaica,25569142.629515998,NA,25569142.629515998,96789753,65352150,https://public.flourish.studio/country-flags/svg/jm.svg
-Expanding,5,South Korea,9746332.70907998,NA,9746332.70907998,36893890,12802321,https://public.flourish.studio/country-flags/svg/kr.svg
-Contracting,5,India,NA,-15318951.2306,-15318951.2306,-57988550,-29572234,https://public.flourish.studio/country-flags/svg/in.svg
-Contracting,4,Mexico,NA,-21588109.95114401,-21588109.95114401,-81719902,-45917546,https://public.flourish.studio/country-flags/svg/mx.svg
-Contracting,3,Singapore,NA,-21767641.770688,-21767641.770688,-82399504,-43742792,https://public.flourish.studio/country-flags/svg/sg.svg
-Contracting,2,Oman,NA,-27856273.535764,-27856273.535764,-105447487,-53503614,https://public.flourish.studio/country-flags/svg/om.svg
-Contracting,1,United Kingdom,NA,-97049356.09402794,-97049356.09402794,-367371849,-209212624,https://public.flourish.studio/country-flags/svg/gb.svg
+Expanding,1,European Union (27),239696841.70178816,NA,239696841.70178816,907351429,593813855,https://public.flourish.studio/country-flags/svg/eu.svg
+Expanding,2,Canada,125085978.00498772,NA,125085978.00498772,473502029,251096807,https://public.flourish.studio/country-flags/svg/ca.svg
+Expanding,3,Brazil,56128791.00418799,NA,56128791.00418799,212470629,106783586,https://public.flourish.studio/country-flags/svg/br.svg
+Expanding,4,Jamaica,21128176.460607994,NA,21128176.460607994,79978864,55854580,https://public.flourish.studio/country-flags/svg/jm.svg
+Expanding,5,Philippines,19123384.6628,NA,19123384.6628,72389900,41243074,https://public.flourish.studio/country-flags/svg/ph.svg
+Contracting,5,Mexico,NA,-13150722.292347983,-13150722.292347983,-49780909,-26838464,https://public.flourish.studio/country-flags/svg/mx.svg
+Contracting,4,Oman,NA,-15452744.045892,-15452744.045892,-58495011,-29245868,https://public.flourish.studio/country-flags/svg/om.svg
+Contracting,3,Singapore,NA,-20774590.692112,-20774590.692112,-78640396,-40172818,https://public.flourish.studio/country-flags/svg/sg.svg
+Contracting,2,India,NA,-71268618.56098402,-71268618.56098402,-269781122,-132006454,https://public.flourish.studio/country-flags/svg/in.svg
+Contracting,1,United Kingdom,NA,-74634753.13275993,-74634753.13275993,-282523330,-155852994,https://public.flourish.studio/country-flags/svg/gb.svg
