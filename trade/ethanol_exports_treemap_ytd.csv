@@ -1,9 +1,9 @@
 Partner,Volume (Liters),Volume (Gallons),Value (thousand $),Flag,Gallons Display,Liters Display,Value Display,Share Display
 Canada,1612421223,425956539,951891,https://public.flourish.studio/country-flags/svg/ca.svg,426.0 MG,1.61 billion L,$951.9 million,35.2%
-European Union-27,1052408811,278016940,664063,https://public.flourish.studio/country-flags/svg/eu.svg,278.0 MG,1.05 billion L,$664.1 million,23.0%
+European Union (27),1052408811,278016940,664063,https://public.flourish.studio/country-flags/svg/eu.svg,278.0 MG,1.05 billion L,$664.1 million,23.0%
 Brazil,273535829,72260507,137275,https://public.flourish.studio/country-flags/svg/br.svg,72.3 MG,273.5 million L,$137.3 million,6.0%
 Colombia,270860802,71553840,202601,https://public.flourish.studio/country-flags/svg/co.svg,71.6 MG,270.9 million L,$202.6 million,5.9%
-"Korea, South",214943215,56781979,125959,https://public.flourish.studio/country-flags/svg/kr.svg,56.8 MG,214.9 million L,$126.0 million,4.7%
+South Korea,214943215,56781979,125959,https://public.flourish.studio/country-flags/svg/kr.svg,56.8 MG,214.9 million L,$126.0 million,4.7%
 United Kingdom,206503609,54552471,121313,https://public.flourish.studio/country-flags/svg/gb.svg,54.6 MG,206.5 million L,$121.3 million,4.5%
 Philippines,205636817,54323489,113760,https://public.flourish.studio/country-flags/svg/ph.svg,54.3 MG,205.6 million L,$113.8 million,4.5%
 India,172826800,45656001,101657,https://public.flourish.studio/country-flags/svg/in.svg,45.7 MG,172.8 million L,$101.7 million,3.8%
@@ -32,7 +32,7 @@ Cambodia,100000,26417,45,https://public.flourish.studio/country-flags/svg/kh.svg
 Saudi Arabia,87782,23190,216,https://public.flourish.studio/country-flags/svg/sa.svg,"23,190 gal","87,782 L","$216,035",<0.1%
 Malaysia,86719,22909,143,https://public.flourish.studio/country-flags/svg/my.svg,"22,909 gal","86,719 L","$143,034",<0.1%
 Haiti,82332,21750,122,https://public.flourish.studio/country-flags/svg/ht.svg,"21,750 gal","82,332 L","$122,112",<0.1%
-Trinidad And Tobago,79898,21107,36,https://public.flourish.studio/country-flags/svg/tt.svg,"21,107 gal","79,898 L","$35,954",<0.1%
+Trinidad and Tobago,79898,21107,36,https://public.flourish.studio/country-flags/svg/tt.svg,"21,107 gal","79,898 L","$35,954",<0.1%
 Norway,79013,20873,36,https://public.flourish.studio/country-flags/svg/no.svg,"20,873 gal","79,013 L","$35,556",<0.1%
 Indonesia,72846,19244,104,https://public.flourish.studio/country-flags/svg/id.svg,"19,244 gal","72,846 L","$103,944",<0.1%
 Barbados,70369,18590,115,https://public.flourish.studio/country-flags/svg/bb.svg,"18,590 gal","70,369 L","$115,406",<0.1%
