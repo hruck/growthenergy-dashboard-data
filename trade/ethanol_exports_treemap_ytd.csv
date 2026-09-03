@@ -1,67 +1,69 @@
 Partner,Volume (Liters),Volume (Gallons),Value (thousand $),Flag,Gallons Display,Liters Display,Value Display,Share Display
-Canada,1612421223,425956539,951891,https://public.flourish.studio/country-flags/svg/ca.svg,426.0 MG,1.61 billion L,$951.9 million,35.2%
-European Union (27),1052408811,278016940,664063,https://public.flourish.studio/country-flags/svg/eu.svg,278.0 MG,1.05 billion L,$664.1 million,23.0%
-Brazil,273535829,72260507,137275,https://public.flourish.studio/country-flags/svg/br.svg,72.3 MG,273.5 million L,$137.3 million,6.0%
-Colombia,270860802,71553840,202601,https://public.flourish.studio/country-flags/svg/co.svg,71.6 MG,270.9 million L,$202.6 million,5.9%
-South Korea,214943215,56781979,125959,https://public.flourish.studio/country-flags/svg/kr.svg,56.8 MG,214.9 million L,$126.0 million,4.7%
-United Kingdom,206503609,54552471,121313,https://public.flourish.studio/country-flags/svg/gb.svg,54.6 MG,206.5 million L,$121.3 million,4.5%
-Philippines,205636817,54323489,113760,https://public.flourish.studio/country-flags/svg/ph.svg,54.3 MG,205.6 million L,$113.8 million,4.5%
-India,172826800,45656001,101657,https://public.flourish.studio/country-flags/svg/in.svg,45.7 MG,172.8 million L,$101.7 million,3.8%
-Mexico,137457458,36312412,87908,https://public.flourish.studio/country-flags/svg/mx.svg,36.3 MG,137.5 million L,$87.9 million,3.0%
-Peru,124781100,32963673,69130,https://public.flourish.studio/country-flags/svg/pe.svg,33.0 MG,124.8 million L,$69.1 million,2.7%
-Jamaica,74548571,19693645,57650,https://public.flourish.studio/country-flags/svg/jm.svg,19.7 MG,74.5 million L,$57.7 million,1.6%
-Nigeria,73225512,19344130,35539,https://public.flourish.studio/country-flags/svg/ng.svg,19.3 MG,73.2 million L,$35.5 million,1.6%
-Vietnam,73138009,19321014,38770,https://public.flourish.studio/country-flags/svg/vn.svg,19.3 MG,73.1 million L,$38.8 million,1.6%
-Guatemala,23300032,6155216,14769,https://public.flourish.studio/country-flags/svg/gt.svg,6.2 MG,23.3 million L,$14.8 million,0.5%
-Egypt,12618610,3333483,6529,https://public.flourish.studio/country-flags/svg/eg.svg,3.3 MG,12.6 million L,$6.5 million,0.3%
-Japan,11331754,2993532,11443,https://public.flourish.studio/country-flags/svg/jp.svg,3.0 MG,11.3 million L,$11.4 million,0.2%
-Panama,11165433,2949595,5416,https://public.flourish.studio/country-flags/svg/pa.svg,2.9 MG,11.2 million L,$5.4 million,0.2%
+Canada,1894323228,500427156,1124836,https://public.flourish.studio/country-flags/svg/ca.svg,500.4 MG,1.89 billion L,$1.12 billion,35.5%
+European Union (27),1243154902,328406717,788922,https://public.flourish.studio/country-flags/svg/eu.svg,328.4 MG,1.24 billion L,$788.9 million,23.3%
+Colombia,289135194,76381422,213639,https://public.flourish.studio/country-flags/svg/co.svg,76.4 MG,289.1 million L,$213.6 million,5.4%
+Brazil,273582174,72272750,137322,https://public.flourish.studio/country-flags/svg/br.svg,72.3 MG,273.6 million L,$137.3 million,5.1%
+South Korea,258327833,68242980,150123,https://public.flourish.studio/country-flags/svg/kr.svg,68.2 MG,258.3 million L,$150.1 million,4.8%
+United Kingdom,254977948,67358034,150540,https://public.flourish.studio/country-flags/svg/gb.svg,67.4 MG,255.0 million L,$150.5 million,4.8%
+Philippines,225700921,59623864,124571,https://public.flourish.studio/country-flags/svg/ph.svg,59.6 MG,225.7 million L,$124.6 million,4.2%
+India,213760761,56469608,124510,https://public.flourish.studio/country-flags/svg/in.svg,56.5 MG,213.8 million L,$124.5 million,4.0%
+Mexico,163138227,43096552,104274,https://public.flourish.studio/country-flags/svg/mx.svg,43.1 MG,163.1 million L,$104.3 million,3.1%
+Vietnam,143385540,37878445,75164,https://public.flourish.studio/country-flags/svg/vn.svg,37.9 MG,143.4 million L,$75.2 million,2.7%
+Peru,130524411,34480895,72744,https://public.flourish.studio/country-flags/svg/pe.svg,34.5 MG,130.5 million L,$72.7 million,2.4%
+Jamaica,76172515,20122646,58529,https://public.flourish.studio/country-flags/svg/jm.svg,20.1 MG,76.2 million L,$58.5 million,1.4%
+Nigeria,73225512,19344130,35539,https://public.flourish.studio/country-flags/svg/ng.svg,19.3 MG,73.2 million L,$35.5 million,1.4%
+Guatemala,29653005,7833494,18107,https://public.flourish.studio/country-flags/svg/gt.svg,7.8 MG,29.7 million L,$18.1 million,0.6%
+Egypt,12618610,3333483,6529,https://public.flourish.studio/country-flags/svg/eg.svg,3.3 MG,12.6 million L,$6.5 million,0.2%
+Japan,11356312,3000020,11469,https://public.flourish.studio/country-flags/svg/jp.svg,3.0 MG,11.4 million L,$11.5 million,0.2%
+Panama,11189235,2955883,5430,https://public.flourish.studio/country-flags/svg/pa.svg,3.0 MG,11.2 million L,$5.4 million,0.2%
 Ghana,9902914,2616073,6138,https://public.flourish.studio/country-flags/svg/gh.svg,2.6 MG,9.9 million L,$6.1 million,0.2%
 Turkey,6197517,1637210,3143,https://public.flourish.studio/country-flags/svg/tr.svg,1.6 MG,6.2 million L,$3.1 million,0.1%
-Switzerland,3038899,802792,1820,https://public.flourish.studio/country-flags/svg/ch.svg,"802,792 gal",3.0 million L,$1.8 million,<0.1%
-Taiwan,785661,207550,652,https://public.flourish.studio/country-flags/svg/tw.svg,"207,550 gal","785,661 L","$651,897",<0.1%
-Costa Rica,705228,186301,723,https://public.flourish.studio/country-flags/svg/cr.svg,"186,301 gal","705,228 L","$722,845",<0.1%
+Switzerland,4904787,1295707,3339,https://public.flourish.studio/country-flags/svg/ch.svg,1.3 MG,4.9 million L,$3.3 million,<0.1%
+Taiwan,869284,229640,720,https://public.flourish.studio/country-flags/svg/tw.svg,"229,640 gal","869,284 L","$719,916",<0.1%
+Costa Rica,866613,228935,868,https://public.flourish.studio/country-flags/svg/cr.svg,"228,935 gal","866,613 L","$867,999",<0.1%
 Sint Maarten,660866,174582,319,https://public.flourish.studio/country-flags/svg/sx.svg,"174,582 gal","660,866 L","$318,995",<0.1%
-Dominican Republic,611929,161655,373,https://public.flourish.studio/country-flags/svg/do.svg,"161,655 gal","611,929 L","$372,960",<0.1%
-Singapore,381104,100677,543,https://public.flourish.studio/country-flags/svg/sg.svg,"100,677 gal","381,104 L","$543,097",<0.1%
-Israel,369955,97732,276,https://public.flourish.studio/country-flags/svg/il.svg,"97,732 gal","369,955 L","$275,909",<0.1%
-China,231777,61229,160,https://public.flourish.studio/country-flags/svg/cn.svg,"61,229 gal","231,777 L","$160,232",<0.1%
+Dominican Republic,620262,163856,381,https://public.flourish.studio/country-flags/svg/do.svg,"163,856 gal","620,262 L","$380,673",<0.1%
+Israel,532092,140564,458,https://public.flourish.studio/country-flags/svg/il.svg,"140,564 gal","532,092 L","$457,879",<0.1%
+Singapore,491279,129782,702,https://public.flourish.studio/country-flags/svg/sg.svg,"129,782 gal","491,279 L","$702,182",<0.1%
+China,235992,62342,169,https://public.flourish.studio/country-flags/svg/cn.svg,"62,342 gal","235,992 L","$168,839",<0.1%
 Bahrain,128358,33909,66,https://public.flourish.studio/country-flags/svg/bh.svg,"33,909 gal","128,358 L","$66,363",<0.1%
-Chile,106919,28245,103,https://public.flourish.studio/country-flags/svg/cl.svg,"28,245 gal","106,919 L","$102,630",<0.1%
+Saudi Arabia,126886,33520,290,https://public.flourish.studio/country-flags/svg/sa.svg,"33,520 gal","126,886 L","$289,529",<0.1%
+Chile,123403,32600,125,https://public.flourish.studio/country-flags/svg/cl.svg,"32,600 gal","123,403 L","$125,303",<0.1%
 Cambodia,100000,26417,45,https://public.flourish.studio/country-flags/svg/kh.svg,"26,417 gal","100,000 L","$45,000",<0.1%
-Saudi Arabia,87782,23190,216,https://public.flourish.studio/country-flags/svg/sa.svg,"23,190 gal","87,782 L","$216,035",<0.1%
 Malaysia,86719,22909,143,https://public.flourish.studio/country-flags/svg/my.svg,"22,909 gal","86,719 L","$143,034",<0.1%
+Indonesia,84339,22280,115,https://public.flourish.studio/country-flags/svg/id.svg,"22,280 gal","84,339 L","$115,437",<0.1%
 Haiti,82332,21750,122,https://public.flourish.studio/country-flags/svg/ht.svg,"21,750 gal","82,332 L","$122,112",<0.1%
 Trinidad and Tobago,79898,21107,36,https://public.flourish.studio/country-flags/svg/tt.svg,"21,107 gal","79,898 L","$35,954",<0.1%
 Norway,79013,20873,36,https://public.flourish.studio/country-flags/svg/no.svg,"20,873 gal","79,013 L","$35,556",<0.1%
-Indonesia,72846,19244,104,https://public.flourish.studio/country-flags/svg/id.svg,"19,244 gal","72,846 L","$103,944",<0.1%
+Australia,77920,20584,179,https://public.flourish.studio/country-flags/svg/au.svg,"20,584 gal","77,920 L","$179,212",<0.1%
 Barbados,70369,18590,115,https://public.flourish.studio/country-flags/svg/bb.svg,"18,590 gal","70,369 L","$115,406",<0.1%
-Australia,52944,13986,112,https://public.flourish.studio/country-flags/svg/au.svg,"13,986 gal","52,944 L","$112,488",<0.1%
+Hong Kong,55583,14683,99,https://public.flourish.studio/country-flags/svg/hk.svg,"14,683 gal","55,583 L","$99,384",<0.1%
 United Arab Emirates,48500,12812,48,https://public.flourish.studio/country-flags/svg/ae.svg,"12,812 gal","48,500 L","$48,500",<0.1%
 Oman,48019,12685,43,https://public.flourish.studio/country-flags/svg/om.svg,"12,685 gal","48,019 L","$42,709",<0.1%
 Anguilla,33054,8732,33,https://public.flourish.studio/country-flags/svg/ai.svg,"8,732 gal","33,054 L","$33,054",<0.1%
-Hong Kong,26092,6893,62,https://public.flourish.studio/country-flags/svg/hk.svg,"6,893 gal","26,092 L","$62,218",<0.1%
 Thailand,25077,6625,56,https://public.flourish.studio/country-flags/svg/th.svg,"6,625 gal","25,077 L","$55,737",<0.1%
+French Polynesia,22214,5868,18,https://public.flourish.studio/country-flags/svg/pf.svg,"5,868 gal","22,214 L","$18,387",<0.1%
 Curacao,20068,5301,17,https://public.flourish.studio/country-flags/svg/cw.svg,"5,301 gal","20,068 L","$16,867",<0.1%
 Qatar,19762,5221,41,https://public.flourish.studio/country-flags/svg/qa.svg,"5,221 gal","19,762 L","$41,238",<0.1%
 Venezuela,18609,4916,48,https://public.flourish.studio/country-flags/svg/ve.svg,"4,916 gal","18,609 L","$47,835",<0.1%
 Bahamas,16814,4442,26,https://public.flourish.studio/country-flags/svg/bs.svg,"4,442 gal","16,814 L","$25,859",<0.1%
-Kuwait,13370,3532,13,https://public.flourish.studio/country-flags/svg/kw.svg,"3,532 gal","13,370 L","$13,370",<0.1%
+Kuwait,16699,4411,17,https://public.flourish.studio/country-flags/svg/kw.svg,"4,411 gal","16,699 L","$16,699",<0.1%
 Honduras,9991,2639,21,https://public.flourish.studio/country-flags/svg/hn.svg,"2,639 gal","9,991 L","$20,505",<0.1%
+Aruba,9456,2498,27,https://public.flourish.studio/country-flags/svg/aw.svg,"2,498 gal","9,456 L","$26,731",<0.1%
 Ethiopia,9444,2495,4,https://public.flourish.studio/country-flags/svg/et.svg,"2,495 gal","9,444 L","$4,250",<0.1%
 Jordan,7200,1902,47,https://public.flourish.studio/country-flags/svg/jo.svg,"1,902 gal","7,200 L","$47,400",<0.1%
-Aruba,6456,1705,20,https://public.flourish.studio/country-flags/svg/aw.svg,"1,705 gal","6,456 L","$20,131",<0.1%
 Argentina,5997,1584,7,https://public.flourish.studio/country-flags/svg/ar.svg,"1,584 gal","5,997 L","$6,897",<0.1%
 El Salvador,5696,1505,3,https://public.flourish.studio/country-flags/svg/sv.svg,"1,505 gal","5,696 L","$2,563",<0.1%
 Kenya,5290,1397,12,https://public.flourish.studio/country-flags/svg/ke.svg,"1,397 gal","5,290 L","$12,170",<0.1%
+Tunisia,5226,1381,6,https://public.flourish.studio/country-flags/svg/tn.svg,"1,381 gal","5,226 L","$6,010",<0.1%
 Morocco,3805,1005,4,https://public.flourish.studio/country-flags/svg/ma.svg,"1,005 gal","3,805 L","$3,805",<0.1%
+Bangladesh,3551,938,4,https://public.flourish.studio/country-flags/svg/bd.svg,938 gal,"3,551 L","$4,084",<0.1%
 Paraguay,3101,819,3,https://public.flourish.studio/country-flags/svg/py.svg,819 gal,"3,101 L","$3,101",<0.1%
 Iceland,3065,810,5,https://public.flourish.studio/country-flags/svg/is.svg,810 gal,"3,065 L","$5,009",<0.1%
 French Guiana,2856,754,3,https://public.flourish.studio/country-flags/svg/gf.svg,754 gal,"2,856 L","$2,856",<0.1%
 Maldives,2835,749,3,https://public.flourish.studio/country-flags/svg/mv.svg,749 gal,"2,835 L","$2,835",<0.1%
-French Polynesia,2525,667,10,https://public.flourish.studio/country-flags/svg/pf.svg,667 gal,"2,525 L","$9,527",<0.1%
 South Africa,2067,546,5,https://public.flourish.studio/country-flags/svg/za.svg,546 gal,"2,067 L","$5,263",<0.1%
 Bermuda,1990,526,14,https://public.flourish.studio/country-flags/svg/bm.svg,526 gal,"1,990 L","$13,980",<0.1%
 Ecuador,1324,350,6,https://public.flourish.studio/country-flags/svg/ec.svg,350 gal,"1,324 L","$6,138",<0.1%
+Nicaragua,1152,304,7,https://public.flourish.studio/country-flags/svg/ni.svg,304 gal,"1,152 L","$6,869",<0.1%
 Montserrat,714,189,3,https://public.flourish.studio/country-flags/svg/ms.svg,189 gal,714 L,"$3,327",<0.1%
-Nicaragua,576,152,3,https://public.flourish.studio/country-flags/svg/ni.svg,152 gal,576 L,"$3,438",<0.1%
