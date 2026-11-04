@@ -1,11 +1,11 @@
 bucket,rank,cty_name,Gallons_Gain,Gallons_Loss,d_gallons,d_qty_liters,d_value_usd,flag
-Expanding,1,European Union (27),223338227.0357281,NA,223338227.0357281,845427324,606972701,https://public.flourish.studio/country-flags/svg/eu.svg
-Expanding,2,Canada,98282247.61054385,NA,98282247.61054385,372038852,351419847,https://public.flourish.studio/country-flags/svg/ca.svg
-Expanding,3,Brazil,45774432.09474799,NA,45774432.09474799,173275109,87098285,https://public.flourish.studio/country-flags/svg/br.svg
-Expanding,4,Vietnam,40686416.765984,NA,40686416.765984,154014872,84090560,https://public.flourish.studio/country-flags/svg/vn.svg
-Expanding,5,Jamaica,23753460.999628,NA,23753460.999628,89916649,62769940,https://public.flourish.studio/country-flags/svg/jm.svg
-Contracting,5,Singapore,NA,-11995407.789524002,-11995407.789524002,-45407567,-23263157,https://public.flourish.studio/country-flags/svg/sg.svg
-Contracting,4,Mexico,NA,-14028191.252451986,-14028191.252451986,-53102491,-23417010,https://public.flourish.studio/country-flags/svg/mx.svg
-Contracting,3,Philippines,NA,-20422466.05894798,-20422466.05894798,-77307459,-29953074,https://public.flourish.studio/country-flags/svg/ph.svg
-Contracting,2,United Kingdom,NA,-84555056.04826802,-84555056.04826802,-320075769,-178839104,https://public.flourish.studio/country-flags/svg/gb.svg
-Contracting,1,India,NA,-95255699.54046798,-95255699.54046798,-360582119,-196306241,https://public.flourish.studio/country-flags/svg/in.svg
+Expanding,1,European Union (27),213671907.00617993,NA,213671907.00617993,808836315,596147223,https://public.flourish.studio/country-flags/svg/eu.svg
+Expanding,2,Canada,120358136.10188389,NA,120358136.10188389,455605197,399937638,https://public.flourish.studio/country-flags/svg/ca.svg
+Expanding,3,Vietnam,57906601.200328015,NA,57906601.200328015,219200374,122352932,https://public.flourish.studio/country-flags/svg/vn.svg
+Expanding,4,Brazil,40522601.331236005,NA,40522601.331236005,153394763,77201559,https://public.flourish.studio/country-flags/svg/br.svg
+Expanding,5,Jamaica,18524112.858347993,NA,18524112.858347993,70121409,50381019,https://public.flourish.studio/country-flags/svg/jm.svg
+Contracting,5,Mexico,NA,-7255974.811575994,-7255974.811575994,-27466858,-8576182,https://public.flourish.studio/country-flags/svg/mx.svg
+Contracting,4,Philippines,NA,-10079515.681499958,-10079515.681499958,-38155125,-7683977,https://public.flourish.studio/country-flags/svg/ph.svg
+Contracting,3,Singapore,NA,-10980569.389420003,-10980569.389420003,-41565985,-20896263,https://public.flourish.studio/country-flags/svg/sg.svg
+Contracting,2,United Kingdom,NA,-55371147.29322001,-55371147.29322001,-209602635,-113302906,https://public.flourish.studio/country-flags/svg/gb.svg
+Contracting,1,India,NA,-80724165.26192395,-80724165.26192395,-305574267,-166267364,https://public.flourish.studio/country-flags/svg/in.svg
