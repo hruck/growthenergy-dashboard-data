@@ -1,0 +1,1276 @@
+state_abbr,state_name,year,million_gallons
+AK,Alaska,2000,0
+AK,Alaska,2001,0
+AK,Alaska,2002,0
+AK,Alaska,2003,0
+AK,Alaska,2004,0
+AK,Alaska,2005,0
+AK,Alaska,2006,0
+AK,Alaska,2007,0
+AK,Alaska,2008,0
+AK,Alaska,2009,0
+AK,Alaska,2010,0
+AK,Alaska,2011,0
+AK,Alaska,2012,0
+AK,Alaska,2013,0
+AK,Alaska,2014,0
+AK,Alaska,2015,0
+AK,Alaska,2016,0
+AK,Alaska,2017,0
+AK,Alaska,2018,0
+AK,Alaska,2019,0
+AK,Alaska,2020,0
+AK,Alaska,2021,0
+AK,Alaska,2022,0
+AK,Alaska,2023,0
+AK,Alaska,2024,0
+AL,Alabama,2000,0
+AL,Alabama,2001,0
+AL,Alabama,2002,0
+AL,Alabama,2003,0
+AL,Alabama,2004,0
+AL,Alabama,2005,0
+AL,Alabama,2006,0
+AL,Alabama,2007,0
+AL,Alabama,2008,0
+AL,Alabama,2009,0
+AL,Alabama,2010,0
+AL,Alabama,2011,0
+AL,Alabama,2012,0
+AL,Alabama,2013,0
+AL,Alabama,2014,0
+AL,Alabama,2015,0
+AL,Alabama,2016,0
+AL,Alabama,2017,0
+AL,Alabama,2018,0
+AL,Alabama,2019,0
+AL,Alabama,2020,0
+AL,Alabama,2021,0
+AL,Alabama,2022,0
+AL,Alabama,2023,0
+AL,Alabama,2024,0
+AR,Arkansas,2000,0
+AR,Arkansas,2001,0
+AR,Arkansas,2002,0
+AR,Arkansas,2003,0
+AR,Arkansas,2004,0
+AR,Arkansas,2005,0
+AR,Arkansas,2006,0
+AR,Arkansas,2007,0
+AR,Arkansas,2008,0
+AR,Arkansas,2009,0
+AR,Arkansas,2010,0
+AR,Arkansas,2011,0
+AR,Arkansas,2012,0
+AR,Arkansas,2013,0
+AR,Arkansas,2014,0
+AR,Arkansas,2015,0
+AR,Arkansas,2016,0
+AR,Arkansas,2017,0
+AR,Arkansas,2018,0
+AR,Arkansas,2019,0
+AR,Arkansas,2020,0
+AR,Arkansas,2021,0
+AR,Arkansas,2022,0
+AR,Arkansas,2023,0
+AR,Arkansas,2024,0
+AZ,Arizona,2000,0
+AZ,Arizona,2001,0
+AZ,Arizona,2002,0
+AZ,Arizona,2003,0
+AZ,Arizona,2004,0
+AZ,Arizona,2005,0
+AZ,Arizona,2006,0
+AZ,Arizona,2007,27.678
+AZ,Arizona,2008,54.18000000000001
+AZ,Arizona,2009,54.936
+AZ,Arizona,2010,49.392
+AZ,Arizona,2011,48.048
+AZ,Arizona,2012,33.894000000000005
+AZ,Arizona,2013,0
+AZ,Arizona,2014,44.394000000000005
+AZ,Arizona,2015,48.468
+AZ,Arizona,2016,45.276
+AZ,Arizona,2017,48.510000000000005
+AZ,Arizona,2018,49.728
+AZ,Arizona,2019,22.302000000000003
+AZ,Arizona,2020,0
+AZ,Arizona,2021,0
+AZ,Arizona,2022,0
+AZ,Arizona,2023,0
+AZ,Arizona,2024,0
+CA,California,2000,4.83
+CA,California,2001,5.292000000000001
+CA,California,2002,7.224
+CA,California,2003,8.484
+CA,California,2004,7.7700000000000005
+CA,California,2005,15.246
+CA,California,2006,39.312000000000005
+CA,California,2007,89.376
+CA,California,2008,95.34
+CA,California,2009,49.476000000000006
+CA,California,2010,60.606
+CA,California,2011,154.30800000000002
+CA,California,2012,149.68800000000002
+CA,California,2013,148.386
+CA,California,2014,189.58800000000002
+CA,California,2015,195.3
+CA,California,2016,198.114
+CA,California,2017,212.14200000000002
+CA,California,2018,217.14000000000001
+CA,California,2019,194.544
+CA,California,2020,113.82000000000001
+CA,California,2021,96.30600000000001
+CA,California,2022,82.32000000000001
+CA,California,2023,63.252
+CA,California,2024,96.64200000000001
+CO,Colorado,2000,0.9660000000000001
+CO,Colorado,2001,1.05
+CO,Colorado,2002,1.3860000000000001
+CO,Colorado,2003,1.6380000000000001
+CO,Colorado,2004,1.4700000000000002
+CO,Colorado,2005,4.662
+CO,Colorado,2006,63.252
+CO,Colorado,2007,92.232
+CO,Colorado,2008,123.144
+CO,Colorado,2009,124.908
+CO,Colorado,2010,141.204
+CO,Colorado,2011,143.80800000000002
+CO,Colorado,2012,143.178
+CO,Colorado,2013,144.774
+CO,Colorado,2014,139.608
+CO,Colorado,2015,146.118
+CO,Colorado,2016,143.346
+CO,Colorado,2017,146.03400000000002
+CO,Colorado,2018,145.19400000000002
+CO,Colorado,2019,138.054
+CO,Colorado,2020,134.904
+CO,Colorado,2021,142.044
+CO,Colorado,2022,152.04000000000002
+CO,Colorado,2023,145.404
+CO,Colorado,2024,149.01600000000002
+CT,Connecticut,2000,0
+CT,Connecticut,2001,0
+CT,Connecticut,2002,0
+CT,Connecticut,2003,0
+CT,Connecticut,2004,0
+CT,Connecticut,2005,0
+CT,Connecticut,2006,0
+CT,Connecticut,2007,0
+CT,Connecticut,2008,0
+CT,Connecticut,2009,0
+CT,Connecticut,2010,0
+CT,Connecticut,2011,0
+CT,Connecticut,2012,0
+CT,Connecticut,2013,0
+CT,Connecticut,2014,0
+CT,Connecticut,2015,0
+CT,Connecticut,2016,0
+CT,Connecticut,2017,0
+CT,Connecticut,2018,0
+CT,Connecticut,2019,0
+CT,Connecticut,2020,0
+CT,Connecticut,2021,0
+CT,Connecticut,2022,0
+CT,Connecticut,2023,0
+CT,Connecticut,2024,0
+DC,District of Columbia,2000,0
+DC,District of Columbia,2001,0
+DC,District of Columbia,2002,0
+DC,District of Columbia,2003,0
+DC,District of Columbia,2004,0
+DC,District of Columbia,2005,0
+DC,District of Columbia,2006,0
+DC,District of Columbia,2007,0
+DC,District of Columbia,2008,0
+DC,District of Columbia,2009,0
+DC,District of Columbia,2010,0
+DC,District of Columbia,2011,0
+DC,District of Columbia,2012,0
+DC,District of Columbia,2013,0
+DC,District of Columbia,2014,0
+DC,District of Columbia,2015,0
+DC,District of Columbia,2016,0
+DC,District of Columbia,2017,0
+DC,District of Columbia,2018,0
+DC,District of Columbia,2019,0
+DC,District of Columbia,2020,0
+DC,District of Columbia,2021,0
+DC,District of Columbia,2022,0
+DC,District of Columbia,2023,0
+DC,District of Columbia,2024,0
+DE,Delaware,2000,0
+DE,Delaware,2001,0
+DE,Delaware,2002,0
+DE,Delaware,2003,0
+DE,Delaware,2004,0
+DE,Delaware,2005,0
+DE,Delaware,2006,0
+DE,Delaware,2007,0
+DE,Delaware,2008,0
+DE,Delaware,2009,0
+DE,Delaware,2010,0
+DE,Delaware,2011,0
+DE,Delaware,2012,0
+DE,Delaware,2013,0
+DE,Delaware,2014,0
+DE,Delaware,2015,0
+DE,Delaware,2016,0
+DE,Delaware,2017,0
+DE,Delaware,2018,0
+DE,Delaware,2019,0
+DE,Delaware,2020,0
+DE,Delaware,2021,0
+DE,Delaware,2022,0
+DE,Delaware,2023,0
+DE,Delaware,2024,0
+FL,Florida,2000,0
+FL,Florida,2001,0
+FL,Florida,2002,0
+FL,Florida,2003,0
+FL,Florida,2004,0
+FL,Florida,2005,0
+FL,Florida,2006,0
+FL,Florida,2007,0
+FL,Florida,2008,0
+FL,Florida,2009,0
+FL,Florida,2010,0
+FL,Florida,2011,0
+FL,Florida,2012,0
+FL,Florida,2013,0
+FL,Florida,2014,0
+FL,Florida,2015,0
+FL,Florida,2016,0
+FL,Florida,2017,0
+FL,Florida,2018,0
+FL,Florida,2019,0
+FL,Florida,2020,0
+FL,Florida,2021,0
+FL,Florida,2022,0
+FL,Florida,2023,0
+FL,Florida,2024,0
+GA,Georgia,2000,0
+GA,Georgia,2001,0
+GA,Georgia,2002,0
+GA,Georgia,2003,0
+GA,Georgia,2004,0
+GA,Georgia,2005,0.126
+GA,Georgia,2006,0.378
+GA,Georgia,2007,0.42000000000000004
+GA,Georgia,2008,25.032
+GA,Georgia,2009,100.296
+GA,Georgia,2010,97.81800000000001
+GA,Georgia,2011,78.75
+GA,Georgia,2012,59.766000000000005
+GA,Georgia,2013,56.574000000000005
+GA,Georgia,2014,89.754
+GA,Georgia,2015,98.028
+GA,Georgia,2016,113.4
+GA,Georgia,2017,106.26
+GA,Georgia,2018,101.346
+GA,Georgia,2019,117.26400000000001
+GA,Georgia,2020,49.098000000000006
+GA,Georgia,2021,0
+GA,Georgia,2022,0
+GA,Georgia,2023,0
+GA,Georgia,2024,0
+HI,Hawaii,2000,0
+HI,Hawaii,2001,0
+HI,Hawaii,2002,0
+HI,Hawaii,2003,0
+HI,Hawaii,2004,0
+HI,Hawaii,2005,0
+HI,Hawaii,2006,0
+HI,Hawaii,2007,0
+HI,Hawaii,2008,0
+HI,Hawaii,2009,0
+HI,Hawaii,2010,0
+HI,Hawaii,2011,0
+HI,Hawaii,2012,0
+HI,Hawaii,2013,0
+HI,Hawaii,2014,0
+HI,Hawaii,2015,0
+HI,Hawaii,2016,0
+HI,Hawaii,2017,0
+HI,Hawaii,2018,0
+HI,Hawaii,2019,0
+HI,Hawaii,2020,0
+HI,Hawaii,2021,0
+HI,Hawaii,2022,0
+HI,Hawaii,2023,0
+HI,Hawaii,2024,0
+IA,Iowa,2000,439.992
+IA,Iowa,2001,439.992
+IA,Iowa,2002,439.992
+IA,Iowa,2003,597.996
+IA,Iowa,2004,858.984
+IA,Iowa,2005,1099.98
+IA,Iowa,2006,1499.988
+IA,Iowa,2007,1955.016
+IA,Iowa,2008,2357.166
+IA,Iowa,2009,3108
+IA,Iowa,2010,3530.9820000000004
+IA,Iowa,2011,3751.23
+IA,Iowa,2012,3623.13
+IA,Iowa,2013,3663.996
+IA,Iowa,2014,3745.896
+IA,Iowa,2015,3950.436
+IA,Iowa,2016,4031.286
+IA,Iowa,2017,4223.436000000001
+IA,Iowa,2018,4369.47
+IA,Iowa,2019,4373.67
+IA,Iowa,2020,3869.7540000000004
+IA,Iowa,2021,4091.556
+IA,Iowa,2022,4013.268
+IA,Iowa,2023,4186.9800000000005
+IA,Iowa,2024,4403.154
+ID,Idaho,2000,4.956
+ID,Idaho,2001,5.376
+ID,Idaho,2002,7.182
+ID,Idaho,2003,8.316
+ID,Idaho,2004,3.6540000000000004
+ID,Idaho,2005,0
+ID,Idaho,2006,0
+ID,Idaho,2007,1.6800000000000002
+ID,Idaho,2008,36.792
+ID,Idaho,2009,12.306000000000001
+ID,Idaho,2010,60.984
+ID,Idaho,2011,62.118
+ID,Idaho,2012,58.422000000000004
+ID,Idaho,2013,57.918000000000006
+ID,Idaho,2014,66.738
+ID,Idaho,2015,65.268
+ID,Idaho,2016,67.83
+ID,Idaho,2017,69.006
+ID,Idaho,2018,68.586
+ID,Idaho,2019,65.982
+ID,Idaho,2020,15.33
+ID,Idaho,2021,10.164000000000001
+ID,Idaho,2022,65.14200000000001
+ID,Idaho,2023,45.444
+ID,Idaho,2024,35.910000000000004
+IL,Illinois,2000,436.75800000000004
+IL,Illinois,2001,478.17
+IL,Illinois,2002,652.974
+IL,Illinois,2003,785.274
+IL,Illinois,2004,743.316
+IL,Illinois,2005,716.4780000000001
+IL,Illinois,2006,737.898
+IL,Illinois,2007,905.772
+IL,Illinois,2008,1007.4960000000001
+IL,Illinois,2009,1280.9160000000002
+IL,Illinois,2010,1496.082
+IL,Illinois,2011,1490.7060000000001
+IL,Illinois,2012,1497.1740000000002
+IL,Illinois,2013,1528.9260000000002
+IL,Illinois,2014,1587.894
+IL,Illinois,2015,1556.604
+IL,Illinois,2016,1725.276
+IL,Illinois,2017,1661.016
+IL,Illinois,2018,1530.8580000000002
+IL,Illinois,2019,1480.92
+IL,Illinois,2020,1419.894
+IL,Illinois,2021,1431.486
+IL,Illinois,2022,1492.344
+IL,Illinois,2023,1552.1100000000001
+IL,Illinois,2024,1551.018
+IN,Indiana,2000,62.62200000000001
+IN,Indiana,2001,68.376
+IN,Indiana,2002,92.82000000000001
+IN,Indiana,2003,108.906
+IN,Indiana,2004,98.994
+IN,Indiana,2005,95.17200000000001
+IN,Indiana,2006,96.012
+IN,Indiana,2007,266.154
+IN,Indiana,2008,581.5740000000001
+IN,Indiana,2009,702.3660000000001
+IN,Indiana,2010,944.4540000000001
+IN,Indiana,2011,999.0120000000001
+IN,Indiana,2012,859.5300000000001
+IN,Indiana,2013,913.4580000000001
+IN,Indiana,2014,1003.086
+IN,Indiana,2015,1057.3500000000001
+IN,Indiana,2016,1134.0420000000001
+IN,Indiana,2017,1153.7820000000002
+IN,Indiana,2018,1189.104
+IN,Indiana,2019,1055.7540000000001
+IN,Indiana,2020,972.216
+IN,Indiana,2021,1155.8400000000001
+IN,Indiana,2022,1210.44
+IN,Indiana,2023,1258.068
+IN,Indiana,2024,1356.222
+KS,Kansas,2000,26.712000000000003
+KS,Kansas,2001,28.812
+KS,Kansas,2002,61.95
+KS,Kansas,2003,97.77600000000001
+KS,Kansas,2004,111.132
+KS,Kansas,2005,132.006
+KS,Kansas,2006,174.888
+KS,Kansas,2007,232.26000000000002
+KS,Kansas,2008,444.06600000000003
+KS,Kansas,2009,410.802
+KS,Kansas,2010,454.35600000000005
+KS,Kansas,2011,456.12
+KS,Kansas,2012,405.216
+KS,Kansas,2013,399.54600000000005
+KS,Kansas,2014,490.47600000000006
+KS,Kansas,2015,487.03200000000004
+KS,Kansas,2016,497.86800000000005
+KS,Kansas,2017,510.72
+KS,Kansas,2018,526.092
+KS,Kansas,2019,538.692
+KS,Kansas,2020,534.282
+KS,Kansas,2021,532.14
+KS,Kansas,2022,572.922
+KS,Kansas,2023,513.744
+KS,Kansas,2024,550.452
+KY,Kentucky,2000,0
+KY,Kentucky,2001,0
+KY,Kentucky,2002,0
+KY,Kentucky,2003,0
+KY,Kentucky,2004,24.654
+KY,Kentucky,2005,23.94
+KY,Kentucky,2006,29.778000000000002
+KY,Kentucky,2007,35.616
+KY,Kentucky,2008,34.86
+KY,Kentucky,2009,35.364000000000004
+KY,Kentucky,2010,34.188
+KY,Kentucky,2011,29.484
+KY,Kentucky,2012,26.46
+KY,Kentucky,2013,27.468
+KY,Kentucky,2014,27.636000000000003
+KY,Kentucky,2015,27.384
+KY,Kentucky,2016,29.736
+KY,Kentucky,2017,29.946
+KY,Kentucky,2018,29.400000000000002
+KY,Kentucky,2019,35.448
+KY,Kentucky,2020,38.976
+KY,Kentucky,2021,39.438
+KY,Kentucky,2022,36.162
+KY,Kentucky,2023,34.566
+KY,Kentucky,2024,35.616
+LA,Louisiana,2000,0
+LA,Louisiana,2001,0
+LA,Louisiana,2002,0
+LA,Louisiana,2003,0
+LA,Louisiana,2004,0
+LA,Louisiana,2005,0
+LA,Louisiana,2006,0
+LA,Louisiana,2007,0
+LA,Louisiana,2008,0.9660000000000001
+LA,Louisiana,2009,1.512
+LA,Louisiana,2010,1.26
+LA,Louisiana,2011,1.1760000000000002
+LA,Louisiana,2012,1.218
+LA,Louisiana,2013,1.512
+LA,Louisiana,2014,1.3860000000000001
+LA,Louisiana,2015,0
+LA,Louisiana,2016,0
+LA,Louisiana,2017,0
+LA,Louisiana,2018,0
+LA,Louisiana,2019,0
+LA,Louisiana,2020,0
+LA,Louisiana,2021,0
+LA,Louisiana,2022,0
+LA,Louisiana,2023,0
+LA,Louisiana,2024,0
+MA,Massachusetts,2000,0
+MA,Massachusetts,2001,0
+MA,Massachusetts,2002,0
+MA,Massachusetts,2003,0
+MA,Massachusetts,2004,0
+MA,Massachusetts,2005,0
+MA,Massachusetts,2006,0
+MA,Massachusetts,2007,0
+MA,Massachusetts,2008,0
+MA,Massachusetts,2009,0
+MA,Massachusetts,2010,0
+MA,Massachusetts,2011,0
+MA,Massachusetts,2012,0
+MA,Massachusetts,2013,0
+MA,Massachusetts,2014,0
+MA,Massachusetts,2015,0
+MA,Massachusetts,2016,0
+MA,Massachusetts,2017,0
+MA,Massachusetts,2018,0
+MA,Massachusetts,2019,0
+MA,Massachusetts,2020,0
+MA,Massachusetts,2021,0
+MA,Massachusetts,2022,0
+MA,Massachusetts,2023,0
+MA,Massachusetts,2024,0
+MD,Maryland,2000,0
+MD,Maryland,2001,0
+MD,Maryland,2002,0
+MD,Maryland,2003,0
+MD,Maryland,2004,0
+MD,Maryland,2005,0
+MD,Maryland,2006,0
+MD,Maryland,2007,0
+MD,Maryland,2008,0
+MD,Maryland,2009,0
+MD,Maryland,2010,0
+MD,Maryland,2011,0
+MD,Maryland,2012,0
+MD,Maryland,2013,0
+MD,Maryland,2014,0
+MD,Maryland,2015,0
+MD,Maryland,2016,0
+MD,Maryland,2017,0
+MD,Maryland,2018,0
+MD,Maryland,2019,0
+MD,Maryland,2020,0
+MD,Maryland,2021,0
+MD,Maryland,2022,0
+MD,Maryland,2023,0
+MD,Maryland,2024,0
+ME,Maine,2000,0
+ME,Maine,2001,0
+ME,Maine,2002,0
+ME,Maine,2003,0
+ME,Maine,2004,0
+ME,Maine,2005,0
+ME,Maine,2006,0
+ME,Maine,2007,0
+ME,Maine,2008,0
+ME,Maine,2009,0
+ME,Maine,2010,0
+ME,Maine,2011,0
+ME,Maine,2012,0
+ME,Maine,2013,0
+ME,Maine,2014,0
+ME,Maine,2015,0
+ME,Maine,2016,0
+ME,Maine,2017,0
+ME,Maine,2018,0
+ME,Maine,2019,0
+ME,Maine,2020,0
+ME,Maine,2021,0
+ME,Maine,2022,0
+ME,Maine,2023,0
+ME,Maine,2024,0
+MI,Michigan,2000,0
+MI,Michigan,2001,0
+MI,Michigan,2002,0
+MI,Michigan,2003,43.260000000000005
+MI,Michigan,2004,48.510000000000005
+MI,Michigan,2005,46.662000000000006
+MI,Michigan,2006,78.414
+MI,Michigan,2007,185.64000000000001
+MI,Michigan,2008,227.472
+MI,Michigan,2009,214.788
+MI,Michigan,2010,276.78000000000003
+MI,Michigan,2011,276.23400000000004
+MI,Michigan,2012,268.59000000000003
+MI,Michigan,2013,277.66200000000003
+MI,Michigan,2014,281.56800000000004
+MI,Michigan,2015,281.946
+MI,Michigan,2016,286.608
+MI,Michigan,2017,342.636
+MI,Michigan,2018,360.99
+MI,Michigan,2019,343.812
+MI,Michigan,2020,310.002
+MI,Michigan,2021,321.594
+MI,Michigan,2022,331.92600000000004
+MI,Michigan,2023,331.50600000000003
+MI,Michigan,2024,331.17
+MN,Minnesota,2000,219.996
+MN,Minnesota,2001,252.00000000000003
+MN,Minnesota,2002,300.00600000000003
+MN,Minnesota,2003,359.016
+MN,Minnesota,2004,400.00800000000004
+MN,Minnesota,2005,420
+MN,Minnesota,2006,549.99
+MN,Minnesota,2007,592.998
+MN,Minnesota,2008,719.586
+MN,Minnesota,2009,951.3420000000001
+MN,Minnesota,2010,1102.332
+MN,Minnesota,2011,1152.9840000000002
+MN,Minnesota,2012,1058.106
+MN,Minnesota,2013,1028.16
+MN,Minnesota,2014,1125.222
+MN,Minnesota,2015,1164.1560000000002
+MN,Minnesota,2016,1172.64
+MN,Minnesota,2017,1197.3780000000002
+MN,Minnesota,2018,1225.854
+MN,Minnesota,2019,1264.4940000000001
+MN,Minnesota,2020,1145.928
+MN,Minnesota,2021,1278.732
+MN,Minnesota,2022,1314.1380000000001
+MN,Minnesota,2023,1348.998
+MN,Minnesota,2024,1372.602
+MO,Missouri,2000,9.702
+MO,Missouri,2001,24.402
+MO,Missouri,2002,32.676
+MO,Missouri,2003,54.096000000000004
+MO,Missouri,2004,58.212
+MO,Missouri,2005,95.634
+MO,Missouri,2006,117.64200000000001
+MO,Missouri,2007,161.49
+MO,Missouri,2008,223.44000000000003
+MO,Missouri,2009,260.778
+MO,Missouri,2010,258.00600000000003
+MO,Missouri,2011,253.51200000000003
+MO,Missouri,2012,222.18
+MO,Missouri,2013,223.776
+MO,Missouri,2014,264.6
+MO,Missouri,2015,273.252
+MO,Missouri,2016,279.132
+MO,Missouri,2017,286.776
+MO,Missouri,2018,287.154
+MO,Missouri,2019,277.074
+MO,Missouri,2020,256.11600000000004
+MO,Missouri,2021,272.706
+MO,Missouri,2022,303.24
+MO,Missouri,2023,282.618
+MO,Missouri,2024,288.54
+MS,Mississippi,2000,0
+MS,Mississippi,2001,0
+MS,Mississippi,2002,0
+MS,Mississippi,2003,0
+MS,Mississippi,2004,0
+MS,Mississippi,2005,0
+MS,Mississippi,2006,0
+MS,Mississippi,2007,0
+MS,Mississippi,2008,4.452
+MS,Mississippi,2009,53.970000000000006
+MS,Mississippi,2010,45.192
+MS,Mississippi,2011,41.706
+MS,Mississippi,2012,36.54
+MS,Mississippi,2013,0
+MS,Mississippi,2014,0
+MS,Mississippi,2015,29.526000000000003
+MS,Mississippi,2016,49.602000000000004
+MS,Mississippi,2017,50.358000000000004
+MS,Mississippi,2018,50.022000000000006
+MS,Mississippi,2019,0
+MS,Mississippi,2020,0
+MS,Mississippi,2021,0
+MS,Mississippi,2022,0
+MS,Mississippi,2023,0
+MS,Mississippi,2024,0
+MT,Montana,2000,0.546
+MT,Montana,2001,0.462
+MT,Montana,2002,0.42000000000000004
+MT,Montana,2003,0.252
+MT,Montana,2004,0
+MT,Montana,2005,0
+MT,Montana,2006,0
+MT,Montana,2007,0
+MT,Montana,2008,0
+MT,Montana,2009,0
+MT,Montana,2010,0
+MT,Montana,2011,0
+MT,Montana,2012,0
+MT,Montana,2013,0
+MT,Montana,2014,0
+MT,Montana,2015,0
+MT,Montana,2016,0
+MT,Montana,2017,0
+MT,Montana,2018,0
+MT,Montana,2019,0
+MT,Montana,2020,0
+MT,Montana,2021,0
+MT,Montana,2022,0
+MT,Montana,2023,0
+MT,Montana,2024,0
+NC,North Carolina,2000,0
+NC,North Carolina,2001,0
+NC,North Carolina,2002,0
+NC,North Carolina,2003,0
+NC,North Carolina,2004,0
+NC,North Carolina,2005,0
+NC,North Carolina,2006,0
+NC,North Carolina,2007,0
+NC,North Carolina,2008,0
+NC,North Carolina,2009,0
+NC,North Carolina,2010,0
+NC,North Carolina,2011,0
+NC,North Carolina,2012,0
+NC,North Carolina,2013,0
+NC,North Carolina,2014,0
+NC,North Carolina,2015,0
+NC,North Carolina,2016,0
+NC,North Carolina,2017,0
+NC,North Carolina,2018,0
+NC,North Carolina,2019,0
+NC,North Carolina,2020,0
+NC,North Carolina,2021,0
+NC,North Carolina,2022,0
+NC,North Carolina,2023,0
+NC,North Carolina,2024,0
+ND,North Dakota,2000,19.782
+ND,North Dakota,2001,21.798000000000002
+ND,North Dakota,2002,29.904000000000003
+ND,North Dakota,2003,35.448
+ND,North Dakota,2004,32.508
+ND,North Dakota,2005,31.248
+ND,North Dakota,2006,31.542
+ND,North Dakota,2007,136.71
+ND,North Dakota,2008,153.972
+ND,North Dakota,2009,260.274
+ND,North Dakota,2010,312.942
+ND,North Dakota,2011,324.28200000000004
+ND,North Dakota,2012,307.81800000000004
+ND,North Dakota,2013,308.44800000000004
+ND,North Dakota,2014,309.75
+ND,North Dakota,2015,362.29200000000003
+ND,North Dakota,2016,415.12800000000004
+ND,North Dakota,2017,512.61
+ND,North Dakota,2018,514.164
+ND,North Dakota,2019,521.094
+ND,North Dakota,2020,515.76
+ND,North Dakota,2021,520.9680000000001
+ND,North Dakota,2022,524.202
+ND,North Dakota,2023,545.076
+ND,North Dakota,2024,549.654
+NE,Nebraska,2000,321.17400000000004
+NE,Nebraska,2001,351.834
+NE,Nebraska,2002,352.59000000000003
+NE,Nebraska,2003,382.494
+NE,Nebraska,2004,515.046
+NE,Nebraska,2005,543.018
+NE,Nebraska,2006,604.0020000000001
+NE,Nebraska,2007,836.0100000000001
+NE,Nebraska,2008,1179.402
+NE,Nebraska,2009,1177.596
+NE,Nebraska,2010,1852.662
+NE,Nebraska,2011,1948.884
+NE,Nebraska,2012,1793.1060000000002
+NE,Nebraska,2013,1795.6680000000001
+NE,Nebraska,2014,1946.4060000000002
+NE,Nebraska,2015,1959.132
+NE,Nebraska,2016,2052.876
+NE,Nebraska,2017,2090.13
+NE,Nebraska,2018,2088.366
+NE,Nebraska,2019,2104.914
+NE,Nebraska,2020,1800.246
+NE,Nebraska,2021,2026.5420000000001
+NE,Nebraska,2022,2031.2040000000002
+NE,Nebraska,2023,1987.4820000000002
+NE,Nebraska,2024,2059.092
+NH,New Hampshire,2000,0
+NH,New Hampshire,2001,0
+NH,New Hampshire,2002,0
+NH,New Hampshire,2003,0
+NH,New Hampshire,2004,0
+NH,New Hampshire,2005,0
+NH,New Hampshire,2006,0
+NH,New Hampshire,2007,0
+NH,New Hampshire,2008,0
+NH,New Hampshire,2009,0
+NH,New Hampshire,2010,0
+NH,New Hampshire,2011,0
+NH,New Hampshire,2012,0
+NH,New Hampshire,2013,0
+NH,New Hampshire,2014,0
+NH,New Hampshire,2015,0
+NH,New Hampshire,2016,0
+NH,New Hampshire,2017,0
+NH,New Hampshire,2018,0
+NH,New Hampshire,2019,0
+NH,New Hampshire,2020,0
+NH,New Hampshire,2021,0
+NH,New Hampshire,2022,0
+NH,New Hampshire,2023,0
+NH,New Hampshire,2024,0
+NJ,New Jersey,2000,0
+NJ,New Jersey,2001,0
+NJ,New Jersey,2002,0
+NJ,New Jersey,2003,0
+NJ,New Jersey,2004,0
+NJ,New Jersey,2005,0
+NJ,New Jersey,2006,0
+NJ,New Jersey,2007,0
+NJ,New Jersey,2008,0
+NJ,New Jersey,2009,0
+NJ,New Jersey,2010,0
+NJ,New Jersey,2011,0
+NJ,New Jersey,2012,0
+NJ,New Jersey,2013,0
+NJ,New Jersey,2014,0
+NJ,New Jersey,2015,0
+NJ,New Jersey,2016,0
+NJ,New Jersey,2017,0
+NJ,New Jersey,2018,0
+NJ,New Jersey,2019,0
+NJ,New Jersey,2020,0
+NJ,New Jersey,2021,0
+NJ,New Jersey,2022,0
+NJ,New Jersey,2023,0
+NJ,New Jersey,2024,0
+NM,New Mexico,2000,9.744
+NM,New Mexico,2001,10.458
+NM,New Mexico,2002,14.028
+NM,New Mexico,2003,16.254
+NM,New Mexico,2004,14.574000000000002
+NM,New Mexico,2005,19.824
+NM,New Mexico,2006,28.224
+NM,New Mexico,2007,30.198
+NM,New Mexico,2008,22.176000000000002
+NM,New Mexico,2009,27.468
+NM,New Mexico,2010,25.116000000000003
+NM,New Mexico,2011,23.184
+NM,New Mexico,2012,20.328000000000003
+NM,New Mexico,2013,25.536
+NM,New Mexico,2014,22.89
+NM,New Mexico,2015,0
+NM,New Mexico,2016,0
+NM,New Mexico,2017,0
+NM,New Mexico,2018,0
+NM,New Mexico,2019,0
+NM,New Mexico,2020,0
+NM,New Mexico,2021,0
+NM,New Mexico,2022,0
+NM,New Mexico,2023,0
+NM,New Mexico,2024,0
+NV,Nevada,2000,0
+NV,Nevada,2001,0
+NV,Nevada,2002,0
+NV,Nevada,2003,0
+NV,Nevada,2004,0
+NV,Nevada,2005,0
+NV,Nevada,2006,0
+NV,Nevada,2007,0
+NV,Nevada,2008,0
+NV,Nevada,2009,0
+NV,Nevada,2010,0
+NV,Nevada,2011,0
+NV,Nevada,2012,0
+NV,Nevada,2013,0
+NV,Nevada,2014,0
+NV,Nevada,2015,0
+NV,Nevada,2016,0
+NV,Nevada,2017,0
+NV,Nevada,2018,0
+NV,Nevada,2019,0
+NV,Nevada,2020,0
+NV,Nevada,2021,0
+NV,Nevada,2022,0
+NV,Nevada,2023,0
+NV,Nevada,2024,0
+NY,New York,2000,0
+NY,New York,2001,0
+NY,New York,2002,0
+NY,New York,2003,0
+NY,New York,2004,0
+NY,New York,2005,0
+NY,New York,2006,0
+NY,New York,2007,4.2
+NY,New York,2008,86.688
+NY,New York,2009,49.938
+NY,New York,2010,104.244
+NY,New York,2011,128.64600000000002
+NY,New York,2012,129.99
+NY,New York,2013,158.00400000000002
+NY,New York,2014,146.58
+NY,New York,2015,145.53
+NY,New York,2016,159.642
+NY,New York,2017,154.854
+NY,New York,2018,138.936
+NY,New York,2019,147.798
+NY,New York,2020,73.626
+NY,New York,2021,57.75000000000001
+NY,New York,2022,57.204
+NY,New York,2023,58.086000000000006
+NY,New York,2024,57.666000000000004
+OH,Ohio,2000,0
+OH,Ohio,2001,0
+OH,Ohio,2002,0
+OH,Ohio,2003,0
+OH,Ohio,2004,0
+OH,Ohio,2005,1.6380000000000001
+OH,Ohio,2006,2.814
+OH,Ohio,2007,1.764
+OH,Ohio,2008,333.52200000000005
+OH,Ohio,2009,262.752
+OH,Ohio,2010,406.098
+OH,Ohio,2011,470.61
+OH,Ohio,2012,453.55800000000005
+OH,Ohio,2013,474.22200000000004
+OH,Ohio,2014,559.1460000000001
+OH,Ohio,2015,567.294
+OH,Ohio,2016,587.076
+OH,Ohio,2017,612.066
+OH,Ohio,2018,635.5020000000001
+OH,Ohio,2019,627.2280000000001
+OH,Ohio,2020,534.45
+OH,Ohio,2021,587.496
+OH,Ohio,2022,657.6360000000001
+OH,Ohio,2023,688.128
+OH,Ohio,2024,688.8420000000001
+OK,Oklahoma,2000,0
+OK,Oklahoma,2001,0
+OK,Oklahoma,2002,0
+OK,Oklahoma,2003,0
+OK,Oklahoma,2004,0
+OK,Oklahoma,2005,0
+OK,Oklahoma,2006,0
+OK,Oklahoma,2007,0
+OK,Oklahoma,2008,0
+OK,Oklahoma,2009,0
+OK,Oklahoma,2010,0
+OK,Oklahoma,2011,0
+OK,Oklahoma,2012,0
+OK,Oklahoma,2013,0
+OK,Oklahoma,2014,0
+OK,Oklahoma,2015,0
+OK,Oklahoma,2016,0
+OK,Oklahoma,2017,0
+OK,Oklahoma,2018,0
+OK,Oklahoma,2019,0
+OK,Oklahoma,2020,0
+OK,Oklahoma,2021,0
+OK,Oklahoma,2022,0
+OK,Oklahoma,2023,0
+OK,Oklahoma,2024,0
+OR,Oregon,2000,0
+OR,Oregon,2001,0
+OR,Oregon,2002,0
+OR,Oregon,2003,0
+OR,Oregon,2004,0
+OR,Oregon,2005,0
+OR,Oregon,2006,0
+OR,Oregon,2007,14.658000000000001
+OR,Oregon,2008,74.84400000000001
+OR,Oregon,2009,57.96
+OR,Oregon,2010,35.910000000000004
+OR,Oregon,2011,34.944
+OR,Oregon,2012,33.684000000000005
+OR,Oregon,2013,37.044000000000004
+OR,Oregon,2014,43.68
+OR,Oregon,2015,39.774
+OR,Oregon,2016,37.968
+OR,Oregon,2017,40.74
+OR,Oregon,2018,41.748000000000005
+OR,Oregon,2019,37.464000000000006
+OR,Oregon,2020,33.18
+OR,Oregon,2021,30.114
+OR,Oregon,2022,25.704
+OR,Oregon,2023,25.578000000000003
+OR,Oregon,2024,30.912000000000003
+PA,Pennsylvania,2000,0
+PA,Pennsylvania,2001,0
+PA,Pennsylvania,2002,0
+PA,Pennsylvania,2003,0
+PA,Pennsylvania,2004,0
+PA,Pennsylvania,2005,0
+PA,Pennsylvania,2006,0
+PA,Pennsylvania,2007,0
+PA,Pennsylvania,2008,0
+PA,Pennsylvania,2009,0
+PA,Pennsylvania,2010,98.238
+PA,Pennsylvania,2011,86.31
+PA,Pennsylvania,2012,87.19200000000001
+PA,Pennsylvania,2013,105.96600000000001
+PA,Pennsylvania,2014,98.322
+PA,Pennsylvania,2015,95.88600000000001
+PA,Pennsylvania,2016,103.908
+PA,Pennsylvania,2017,97.44000000000001
+PA,Pennsylvania,2018,92.90400000000001
+PA,Pennsylvania,2019,107.47800000000001
+PA,Pennsylvania,2020,96.138
+PA,Pennsylvania,2021,119.19600000000001
+PA,Pennsylvania,2022,118.10400000000001
+PA,Pennsylvania,2023,119.91000000000001
+PA,Pennsylvania,2024,119.028
+RI,Rhode Island,2000,0
+RI,Rhode Island,2001,0
+RI,Rhode Island,2002,0
+RI,Rhode Island,2003,0
+RI,Rhode Island,2004,0
+RI,Rhode Island,2005,0
+RI,Rhode Island,2006,0
+RI,Rhode Island,2007,0
+RI,Rhode Island,2008,0
+RI,Rhode Island,2009,0
+RI,Rhode Island,2010,0
+RI,Rhode Island,2011,0
+RI,Rhode Island,2012,0
+RI,Rhode Island,2013,0
+RI,Rhode Island,2014,0
+RI,Rhode Island,2015,0
+RI,Rhode Island,2016,0
+RI,Rhode Island,2017,0
+RI,Rhode Island,2018,0
+RI,Rhode Island,2019,0
+RI,Rhode Island,2020,0
+RI,Rhode Island,2021,0
+RI,Rhode Island,2022,0
+RI,Rhode Island,2023,0
+RI,Rhode Island,2024,0
+SC,South Carolina,2000,0
+SC,South Carolina,2001,0
+SC,South Carolina,2002,0
+SC,South Carolina,2003,0
+SC,South Carolina,2004,0
+SC,South Carolina,2005,0
+SC,South Carolina,2006,0
+SC,South Carolina,2007,0
+SC,South Carolina,2008,0
+SC,South Carolina,2009,0
+SC,South Carolina,2010,0
+SC,South Carolina,2011,0
+SC,South Carolina,2012,0
+SC,South Carolina,2013,0
+SC,South Carolina,2014,0
+SC,South Carolina,2015,0
+SC,South Carolina,2016,0
+SC,South Carolina,2017,0
+SC,South Carolina,2018,0
+SC,South Carolina,2019,0
+SC,South Carolina,2020,0
+SC,South Carolina,2021,0
+SC,South Carolina,2022,0
+SC,South Carolina,2023,0
+SC,South Carolina,2024,0
+SD,South Dakota,2000,16.380000000000003
+SD,South Dakota,2001,24.78
+SD,South Dakota,2002,60.396
+SD,South Dakota,2003,150.906
+SD,South Dakota,2004,308.196
+SD,South Dakota,2005,419.454
+SD,South Dakota,2006,552.0060000000001
+SD,South Dakota,2007,594.846
+SD,South Dakota,2008,797.7900000000001
+SD,South Dakota,2009,933.1560000000001
+SD,South Dakota,2010,1030.89
+SD,South Dakota,2011,1018.5000000000001
+SD,South Dakota,2012,982.926
+SD,South Dakota,2013,1024.7160000000001
+SD,South Dakota,2014,1047.69
+SD,South Dakota,2015,1119.636
+SD,South Dakota,2016,1135.092
+SD,South Dakota,2017,1184.3580000000002
+SD,South Dakota,2018,1217.4540000000002
+SD,South Dakota,2019,1209.978
+SD,South Dakota,2020,1161.8880000000001
+SD,South Dakota,2021,1303.7640000000001
+SD,South Dakota,2022,1320.816
+SD,South Dakota,2023,1319.976
+SD,South Dakota,2024,1377.432
+TN,Tennessee,2000,38.262
+TN,Tennessee,2001,42.63
+TN,Tennessee,2002,58.926
+TN,Tennessee,2003,70.35000000000001
+TN,Tennessee,2004,65.016
+TN,Tennessee,2005,62.496
+TN,Tennessee,2006,63.042
+TN,Tennessee,2007,67.41000000000001
+TN,Tennessee,2008,82.40400000000001
+TN,Tennessee,2009,171.024
+TN,Tennessee,2010,172.99800000000002
+TN,Tennessee,2011,184.17000000000002
+TN,Tennessee,2012,168.042
+TN,Tennessee,2013,174.59400000000002
+TN,Tennessee,2014,175.728
+TN,Tennessee,2015,174.09
+TN,Tennessee,2016,186.018
+TN,Tennessee,2017,187.11
+TN,Tennessee,2018,183.792
+TN,Tennessee,2019,179.67600000000002
+TN,Tennessee,2020,169.38600000000002
+TN,Tennessee,2021,175.812
+TN,Tennessee,2022,162.372
+TN,Tennessee,2023,159.852
+TN,Tennessee,2024,162.708
+TX,Texas,2000,0
+TX,Texas,2001,0
+TX,Texas,2002,0
+TX,Texas,2003,0
+TX,Texas,2004,0
+TX,Texas,2005,0
+TX,Texas,2006,0
+TX,Texas,2007,0
+TX,Texas,2008,188.79000000000002
+TX,Texas,2009,167.37
+TX,Texas,2010,209.328
+TX,Texas,2011,240.324
+TX,Texas,2012,282.954
+TX,Texas,2013,209.454
+TX,Texas,2014,306.93600000000004
+TX,Texas,2015,346.122
+TX,Texas,2016,357
+TX,Texas,2017,363.846
+TX,Texas,2018,347.172
+TX,Texas,2019,300.93
+TX,Texas,2020,233.05800000000002
+TX,Texas,2021,292.908
+TX,Texas,2022,354.10200000000003
+TX,Texas,2023,353.178
+TX,Texas,2024,372.24600000000004
+UT,Utah,2000,0
+UT,Utah,2001,0
+UT,Utah,2002,0
+UT,Utah,2003,0
+UT,Utah,2004,0
+UT,Utah,2005,0
+UT,Utah,2006,0
+UT,Utah,2007,0
+UT,Utah,2008,0
+UT,Utah,2009,0
+UT,Utah,2010,0
+UT,Utah,2011,0
+UT,Utah,2012,0
+UT,Utah,2013,0
+UT,Utah,2014,0
+UT,Utah,2015,0
+UT,Utah,2016,0
+UT,Utah,2017,0
+UT,Utah,2018,0
+UT,Utah,2019,0
+UT,Utah,2020,0
+UT,Utah,2021,0
+UT,Utah,2022,0
+UT,Utah,2023,0
+UT,Utah,2024,0
+VA,Virginia,2000,1.302
+VA,Virginia,2001,1.05
+VA,Virginia,2002,0.924
+VA,Virginia,2003,0.546
+VA,Virginia,2004,0
+VA,Virginia,2005,0
+VA,Virginia,2006,0
+VA,Virginia,2007,0
+VA,Virginia,2008,0
+VA,Virginia,2009,0
+VA,Virginia,2010,0
+VA,Virginia,2011,0
+VA,Virginia,2012,0
+VA,Virginia,2013,0
+VA,Virginia,2014,37.674
+VA,Virginia,2015,42.504000000000005
+VA,Virginia,2016,23.604000000000003
+VA,Virginia,2017,53.13
+VA,Virginia,2018,45.612
+VA,Virginia,2019,3.906
+VA,Virginia,2020,1.344
+VA,Virginia,2021,0
+VA,Virginia,2022,0
+VA,Virginia,2023,0
+VA,Virginia,2024,0
+VT,Vermont,2000,0
+VT,Vermont,2001,0
+VT,Vermont,2002,0
+VT,Vermont,2003,0
+VT,Vermont,2004,0
+VT,Vermont,2005,0
+VT,Vermont,2006,0
+VT,Vermont,2007,0
+VT,Vermont,2008,0
+VT,Vermont,2009,0
+VT,Vermont,2010,0
+VT,Vermont,2011,0
+VT,Vermont,2012,0
+VT,Vermont,2013,0
+VT,Vermont,2014,0
+VT,Vermont,2015,0
+VT,Vermont,2016,0
+VT,Vermont,2017,0
+VT,Vermont,2018,0
+VT,Vermont,2019,0
+VT,Vermont,2020,0
+VT,Vermont,2021,0
+VT,Vermont,2022,0
+VT,Vermont,2023,0
+VT,Vermont,2024,0
+WA,Washington,2000,1.848
+WA,Washington,2001,1.6380000000000001
+WA,Washington,2002,1.6800000000000002
+WA,Washington,2003,1.344
+WA,Washington,2004,0.672
+WA,Washington,2005,0.42000000000000004
+WA,Washington,2006,0
+WA,Washington,2007,0
+WA,Washington,2008,0
+WA,Washington,2009,0
+WA,Washington,2010,0
+WA,Washington,2011,0
+WA,Washington,2012,0
+WA,Washington,2013,0
+WA,Washington,2014,0
+WA,Washington,2015,0
+WA,Washington,2016,0
+WA,Washington,2017,0
+WA,Washington,2018,0
+WA,Washington,2019,0
+WA,Washington,2020,0
+WA,Washington,2021,0
+WA,Washington,2022,0
+WA,Washington,2023,0
+WA,Washington,2024,0
+WI,Wisconsin,2000,3.99
+WI,Wisconsin,2001,3.99
+WI,Wisconsin,2002,20.832
+WI,Wisconsin,2003,76.944
+WI,Wisconsin,2004,106.89
+WI,Wisconsin,2005,171.78
+WI,Wisconsin,2006,210.37800000000001
+WI,Wisconsin,2007,283.87800000000004
+WI,Wisconsin,2008,447.384
+WI,Wisconsin,2009,462.00000000000006
+WI,Wisconsin,2010,488.418
+WI,Wisconsin,2011,518.868
+WI,Wisconsin,2012,502.15200000000004
+WI,Wisconsin,2013,493.54200000000003
+WI,Wisconsin,2014,547.47
+WI,Wisconsin,2015,565.32
+WI,Wisconsin,2016,580.734
+WI,Wisconsin,2017,601.986
+WI,Wisconsin,2018,634.7460000000001
+WI,Wisconsin,2019,630
+WI,Wisconsin,2020,461.58000000000004
+WI,Wisconsin,2021,529.2
+WI,Wisconsin,2022,535.416
+WI,Wisconsin,2023,560.196
+WI,Wisconsin,2024,637.35
+WV,West Virginia,2000,0
+WV,West Virginia,2001,0
+WV,West Virginia,2002,0
+WV,West Virginia,2003,0
+WV,West Virginia,2004,0
+WV,West Virginia,2005,0
+WV,West Virginia,2006,0
+WV,West Virginia,2007,0
+WV,West Virginia,2008,0
+WV,West Virginia,2009,0
+WV,West Virginia,2010,0
+WV,West Virginia,2011,0
+WV,West Virginia,2012,0
+WV,West Virginia,2013,0
+WV,West Virginia,2014,0
+WV,West Virginia,2015,0
+WV,West Virginia,2016,0
+WV,West Virginia,2017,0
+WV,West Virginia,2018,0
+WV,West Virginia,2019,0
+WV,West Virginia,2020,0
+WV,West Virginia,2021,0
+WV,West Virginia,2022,0
+WV,West Virginia,2023,0
+WV,West Virginia,2024,0
+WY,Wyoming,2000,2.73
+WY,Wyoming,2001,3.0660000000000003
+WY,Wyoming,2002,4.284000000000001
+WY,Wyoming,2003,5.208
+WY,Wyoming,2004,4.872
+WY,Wyoming,2005,4.662
+WY,Wyoming,2006,4.704000000000001
+WY,Wyoming,2007,5.04
+WY,Wyoming,2008,6.300000000000001
+WY,Wyoming,2009,6.510000000000001
+WY,Wyoming,2010,7.3500000000000005
+WY,Wyoming,2011,11.298
+WY,Wyoming,2012,13.188
+WY,Wyoming,2013,13.314
+WY,Wyoming,2014,12.726
+WY,Wyoming,2015,8.778
+WY,Wyoming,2016,0
+WY,Wyoming,2017,0
+WY,Wyoming,2018,0
+WY,Wyoming,2019,0
+WY,Wyoming,2020,0
+WY,Wyoming,2021,0
+WY,Wyoming,2022,0
+WY,Wyoming,2023,0
+WY,Wyoming,2024,0
